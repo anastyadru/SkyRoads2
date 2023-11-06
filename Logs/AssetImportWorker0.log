@@ -594,3 +594,55 @@ Received Import Request.
   path: Assets/Vefects/Free Fire HDRP/Scene
   artifactKey: Guid(7d2ae1132c30b1240a6c908bfdb232da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Vefects/Free Fire HDRP/Scene using Guid(7d2ae1132c30b1240a6c908bfdb232da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83f85f80b2d6800a1af643a92c77d85') in 0.005628 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.180 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2679 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.8 MB.
+System memory in use after: 113.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3410.
+Total: 6.383000 ms (FindLiveObjects: 0.391600 ms CreateObjectMapping: 0.706700 ms MarkObjects: 4.629100 ms  DeleteObjects: 0.652300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16561.856934 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Ground_Mask_01.mat
+  artifactKey: Guid(8755c4e26aab40f40a242396e8de1497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Ground_Mask_01.mat using Guid(8755c4e26aab40f40a242396e8de1497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5491b6f59b489b4910055fd1058c3bdf') in 0.336786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Noise_07.mat
+  artifactKey: Guid(d7d9527bcb8bc39409cf645e30071881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Noise_07.mat using Guid(d7d9527bcb8bc39409cf645e30071881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3212b586f7332a7e2b12d200ce4a59aa') in 0.134351 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 15.305 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3414.
+Total: 80.819600 ms (FindLiveObjects: 0.831000 ms CreateObjectMapping: 0.472100 ms MarkObjects: 79.087400 ms  DeleteObjects: 0.424100 ms)
+
