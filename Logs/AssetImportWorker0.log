@@ -666,3 +666,169 @@ System memory in use after: 112.9 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3417.
 Total: 14.038900 ms (FindLiveObjects: 0.946800 ms CreateObjectMapping: 0.542000 ms MarkObjects: 11.961300 ms  DeleteObjects: 0.585700 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 3.837969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.464 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 303.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3420.
+Total: 17.158900 ms (FindLiveObjects: 0.429000 ms CreateObjectMapping: 0.374500 ms MarkObjects: 15.924500 ms  DeleteObjects: 0.427300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010397 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3423.
+Total: 13.441900 ms (FindLiveObjects: 0.563000 ms CreateObjectMapping: 0.329800 ms MarkObjects: 12.089200 ms  DeleteObjects: 0.456400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013519 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.5 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3426.
+Total: 11.831400 ms (FindLiveObjects: 1.431900 ms CreateObjectMapping: 0.376500 ms MarkObjects: 9.608000 ms  DeleteObjects: 0.411500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016616 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.5 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3429.
+Total: 6.448000 ms (FindLiveObjects: 0.893700 ms CreateObjectMapping: 0.378300 ms MarkObjects: 4.463200 ms  DeleteObjects: 0.710100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.294 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 12.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.5 MB.
+System memory in use after: 113.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3432.
+Total: 9.352400 ms (FindLiveObjects: 0.376400 ms CreateObjectMapping: 1.100200 ms MarkObjects: 6.998900 ms  DeleteObjects: 0.874000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2728.529185 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Prefabs
+  artifactKey: Guid(280c88f28e8b32a409066d6c15574ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Prefabs using Guid(280c88f28e8b32a409066d6c15574ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcad37bde3470908399e802b860fc6b4') in 0.022972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Prefabs/VFX.prefab
+  artifactKey: Guid(d201da8ae49151e45a91c6cc91a24794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Prefabs/VFX.prefab using Guid(d201da8ae49151e45a91c6cc91a24794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6b2c0b3a79a7d03261a848967f8819') in 0.378431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.088463 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Textures
+  artifactKey: Guid(de75513dddfce0541ba9394d2ff884fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures using Guid(de75513dddfce0541ba9394d2ff884fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062c361897d4108b187e691b463dc6a1') in 0.006586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.092551 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Base_Color.TGA
+  artifactKey: Guid(7e86780f8818d774781e18cdb159f2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Base_Color.TGA using Guid(7e86780f8818d774781e18cdb159f2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c086414011347900391e152d7f09a5') in 0.262295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Normal.TGA
+  artifactKey: Guid(4f1502c89b49fa2419daab4477020e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Normal.TGA using Guid(4f1502c89b49fa2419daab4477020e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91209b6deea1310d8a004c6f1d0be94a') in 0.213750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.682974 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Scenes
+  artifactKey: Guid(507d8be37dcea494ea8e021866c5224e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Scenes using Guid(507d8be37dcea494ea8e021866c5224e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353500e44382ac51676839740e148183') in 0.018013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.364317 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes
+  artifactKey: Guid(cc9d7952e97350b42b40a81a21f1e792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes using Guid(cc9d7952e97350b42b40a81a21f1e792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e51e98f2f6244e40c14768c960be10') in 0.015001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.prefab
+  artifactKey: Guid(b47c589d04b11f14886e94f837327111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.prefab using Guid(b47c589d04b11f14886e94f837327111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10bf54214e43926a47a5d9774935815') in 0.229125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.fbx
+  artifactKey: Guid(89209d2c2872ccb44adf7a6e4142fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.fbx using Guid(89209d2c2872ccb44adf7a6e4142fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c00da444f54d43217ab2f70a760913f') in 0.451836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.667193 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Materials
+  artifactKey: Guid(07b736c9aafb12748b05a3746fa74e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Materials using Guid(07b736c9aafb12748b05a3746fa74e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30c4a7d4cbde59010902244aca2381c') in 0.018014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Vefects/Free Fire HDRP/Scene/Materials/M_Grid.mat
+  artifactKey: Guid(1f0ecf64f0cd0d64b82f3103c6239873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/Free Fire HDRP/Scene/Materials/M_Grid.mat using Guid(1f0ecf64f0cd0d64b82f3103c6239873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbb8b214bbd2daf3b994a513080f006') in 0.119736 seconds 
