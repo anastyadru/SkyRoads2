@@ -1295,3 +1295,87 @@ System memory in use after: 135.8 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3585.
 Total: 5.342500 ms (FindLiveObjects: 0.665500 ms CreateObjectMapping: 0.680500 ms MarkObjects: 3.561200 ms  DeleteObjects: 0.431400 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.043392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.456 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 15.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.3 MB.
+System memory in use after: 135.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3588.
+Total: 14.821900 ms (FindLiveObjects: 0.410100 ms CreateObjectMapping: 0.414400 ms MarkObjects: 13.440400 ms  DeleteObjects: 0.554100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7062.126138 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials
+  artifactKey: Guid(957cc5486fb9dc34ea29673bc3db92e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials using Guid(957cc5486fb9dc34ea29673bc3db92e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f90e62883cc483508edeb8db764b0a4') in 0.043405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000750 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Top.mat
+  artifactKey: Guid(487b24d513e1c6042ba0935f7f270284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Top.mat using Guid(487b24d513e1c6042ba0935f7f270284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca4c7f911fbbd0c05a024e612ed0e9a') in 0.653076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010776 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Front.mat
+  artifactKey: Guid(641c5e95f86a6a04893cf47713899753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Front.mat using Guid(641c5e95f86a6a04893cf47713899753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5ce79e4c96f17035d4dbbaf4221e3e') in 0.211574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.135607 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Left.mat
+  artifactKey: Guid(3b7e48779da41d2479dd939dfcbccb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Left.mat using Guid(3b7e48779da41d2479dd939dfcbccb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c912c638e4a6a497b4b4ad4d9d9223') in 0.100274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008452 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Right.mat
+  artifactKey: Guid(4599d9301685e25408f08b9f84f45e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Right.mat using Guid(4599d9301685e25408f08b9f84f45e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a592f33b9aa01ba1f35d1ca68b2b590a') in 0.318225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.076734 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Bottom.mat
+  artifactKey: Guid(14c8f1d628f26b9479db62465a3cf560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Bottom.mat using Guid(14c8f1d628f26b9479db62465a3cf560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1874d333b3e0fc9bb41ce0b7cbb12a') in 0.124813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001414 seconds.
+  path: Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat
+  artifactKey: Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat using Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e1f88bfda2d9a8a023ae470de8deed') in 0.149053 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.818 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.3 MB.
+System memory in use after: 135.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3592.
+Total: 5.119800 ms (FindLiveObjects: 0.539700 ms CreateObjectMapping: 0.398900 ms MarkObjects: 3.652100 ms  DeleteObjects: 0.524600 ms)
+
