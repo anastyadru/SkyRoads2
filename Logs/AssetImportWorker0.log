@@ -1496,3 +1496,111 @@ Received Import Request.
   path: Assets/Textures/Environment/Floor/New Material.mat
   artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15eba30cc7a6ddfeecd5ed2ee058b92c') in 0.146311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 443.363102 seconds.
+  path: Assets/Textures/Environment/Floor/New Material.mat
+  artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33d4bd1cb3834308217da99933aeee5') in 0.134158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.048770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.658 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.5 MB.
+System memory in use after: 136.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3612.
+Total: 5.158600 ms (FindLiveObjects: 0.480500 ms CreateObjectMapping: 0.421600 ms MarkObjects: 3.529200 ms  DeleteObjects: 0.724200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.292726 seconds.
+  path: Assets/Textures/Environment/Floor/Materials
+  artifactKey: Guid(0faae451244665e49a9c0f365c62f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/Materials using Guid(0faae451244665e49a9c0f365c62f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f06febf194bc14b371619668771459a') in 0.036869 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.928 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.5 MB.
+System memory in use after: 136.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3615.
+Total: 4.859200 ms (FindLiveObjects: 0.546000 ms CreateObjectMapping: 0.352600 ms MarkObjects: 3.448300 ms  DeleteObjects: 0.509600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.729412 seconds.
+  path: Assets/Textures/Environment/Floor/New Material.mat
+  artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea7b925d06778856b7c75407a8aead0') in 0.657501 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009082 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.016 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.6 MB.
+System memory in use after: 136.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3619.
+Total: 6.485400 ms (FindLiveObjects: 0.473800 ms CreateObjectMapping: 0.400800 ms MarkObjects: 5.093900 ms  DeleteObjects: 0.513700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.136043 seconds.
+  path: Assets/Scripts/ScrollTexture.cs
+  artifactKey: Guid(bf2855e0d2aaba94fab0c7d945f83912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScrollTexture.cs using Guid(bf2855e0d2aaba94fab0c7d945f83912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea4c6610ba0a2a2a801e126e662f99a') in 5.148002 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.979 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.6 MB.
+System memory in use after: 136.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3623.
+Total: 12.941500 ms (FindLiveObjects: 0.380300 ms CreateObjectMapping: 0.213000 ms MarkObjects: 11.641400 ms  DeleteObjects: 0.703800 ms)
+
