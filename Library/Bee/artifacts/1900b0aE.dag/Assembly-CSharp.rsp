@@ -329,6 +329,7 @@
 "Assets/PyroParticles/Prefab/Script/MeteorSwarmScript.cs"
 "Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs"
 "Assets/Scripts/Asteroid.cs"
+"Assets/Scripts/Asteroids.cs"
 "Assets/Scripts/ScrollTexture.cs"
 "Assets/Scripts/Spaceship.cs"
 -langversion:8.0
