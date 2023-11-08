@@ -1793,3 +1793,30 @@ System memory in use after: 136.3 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3650.
 Total: 4.586300 ms (FindLiveObjects: 0.483000 ms CreateObjectMapping: 0.370300 ms MarkObjects: 3.312600 ms  DeleteObjects: 0.416800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.930 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.9 MB.
+System memory in use after: 136.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3653.
+Total: 6.478900 ms (FindLiveObjects: 0.747600 ms CreateObjectMapping: 0.703200 ms MarkObjects: 4.577400 ms  DeleteObjects: 0.447500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51485.779351 seconds.
+  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
+  artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0936032076a1f381581d2b6b33e5bd') in 0.397992 seconds 
