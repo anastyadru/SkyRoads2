@@ -8,7 +8,7 @@ public class ScrollTexture : MonoBehaviour
 
     private void Update()
     {
-        _offset -= 0.01f
+        _offset -= 0.05f;
         GetComponent<Renderer>().material.mainTextureOffset = new Vector2(0, _offset);
     }
 }
