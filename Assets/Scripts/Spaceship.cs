@@ -11,13 +11,13 @@ public class Spaceship : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.D)) 
         {
-            transform.position += new Vector3(0.9f, 0, 0);
-            rotationX = Mathf.Lerp(rotationX, -40f, Time.deltaTime * rotationSpeed);
+            transform.position += new Vector3(0.8f, 0, 0);
+            rotationX = Mathf.Lerp(rotationX, -50f, Time.deltaTime * rotationSpeed);
         }
         else if (Input.GetKey(KeyCode.A)) 
         {
-            transform.position += new Vector3(-0.9f, 0, 0);
-            rotationX = Mathf.Lerp(rotationX, 40f, Time.deltaTime * rotationSpeed);
+            transform.position += new Vector3(-0.8f, 0, 0);
+            rotationX = Mathf.Lerp(rotationX, 50f, Time.deltaTime * rotationSpeed);
         }
         else
         {
