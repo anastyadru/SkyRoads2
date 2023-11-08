@@ -15,11 +15,11 @@ G:/Учеба/C#/Unity задачи/SkyRoads2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58379
+50569
 Successfully changed project path to: G:/Учеба/C#/Unity задачи/SkyRoads2
 G:/Учеба/C#/Unity задачи/SkyRoads2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 333.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 263.27 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.6f1/Editor/Data/Resources/UnitySubsystems
@@ -31,1850 +31,347 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
     Driver:   10.18.10.5161
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.016330 seconds.
+Registered in 0.006359 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 249.55 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 186.58 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.339 seconds
+- Completed reload, in  4.366 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010883 seconds.
+Registered in 0.006540 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  9.869 seconds
+- Completed reload, in  3.500 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.65 seconds
-Refreshing native plugins compatible for Editor in 4.97 ms, found 1 plugins.
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.28 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2672 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.6 MB.
-System memory in use after: 101.0 MB.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 102.3 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3124.
-Total: 59.224100 ms (FindLiveObjects: 47.081300 ms CreateObjectMapping: 0.314900 ms MarkObjects: 10.998300 ms  DeleteObjects: 0.826300 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3141.
+Total: 4.194700 ms (FindLiveObjects: 0.328400 ms CreateObjectMapping: 0.244400 ms MarkObjects: 3.200400 ms  DeleteObjects: 0.417900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Vefects
-  artifactKey: Guid(a73bc430b3510e541963e3cf36bba601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects using Guid(a73bc430b3510e541963e3cf36bba601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05cdfe8ab5bd6fb81bd16640b144ef5e') in 0.020020 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.379019 seconds.
-  path: Assets/Vefects/Free Fire HDRP
-  artifactKey: Guid(eab8f9a07cf910b4fa33106bcde30b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP using Guid(eab8f9a07cf910b4fa33106bcde30b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad022bac200d2fd0a526996e7347eee') in 0.004506 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 68981.751944 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Audio
-  artifactKey: Guid(fe1351f1f84423542a5720be83c07f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Audio using Guid(fe1351f1f84423542a5720be83c07f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fd6a478973e118b3cc9b3e3fa8bf61') in 0.050357 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.002076 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Audio/SFX_FireSmall_L.wav
-  artifactKey: Guid(94bc8546fe222904c9fd6e0438c1b6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Audio/SFX_FireSmall_L.wav using Guid(94bc8546fe222904c9fd6e0438c1b6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39161c988304d3d02617143b1d9ec71') in 0.467071 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000646 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Audio/SFX_FireBig_L.wav
-  artifactKey: Guid(447e97f44e7d0fd4eb6ddec82c319992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Audio/SFX_FireBig_L.wav using Guid(447e97f44e7d0fd4eb6ddec82c319992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f0280cb07c9aba6ef37179c955454a') in 0.105956 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000617 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Audio/SFX_FireMedium_L.wav
-  artifactKey: Guid(af0e33a1b1f847f4f80e106592282d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Audio/SFX_FireMedium_L.wav using Guid(af0e33a1b1f847f4f80e106592282d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cebaebf9d40a0c037604617a59ad5c1') in 0.131064 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.253344 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources
-  artifactKey: Guid(7cb7a4f643cbd494da034e527cd41c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources using Guid(7cb7a4f643cbd494da034e527cd41c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414e0e7546a622b3e37092911524a204') in 0.016783 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000440 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/Skin Diffusion Profile.asset
-  artifactKey: Guid(88e0de066d734cf45830387f24a950c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/Skin Diffusion Profile.asset using Guid(88e0de066d734cf45830387f24a950c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0be939534bbd1885284b74147d19502') in 0.098856 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.009740 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(a9953d53a15ba0a48966ef67d2c90895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset using Guid(a9953d53a15ba0a48966ef67d2c90895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504fb78a0da8fa564e490605daea2108') in 0.094375 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/HDRenderPipelineAsset.asset
-  artifactKey: Guid(09883da07bbb30b419fd674953a62102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/HDRenderPipelineAsset.asset using Guid(09883da07bbb30b419fd674953a62102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3050bc316dc52c2c29a05d49ea5af9') in 0.081478 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.015762 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/Foliage Diffusion Profile.asset
-  artifactKey: Guid(92cc5349ed947734f81bf8a63637255c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/Foliage Diffusion Profile.asset using Guid(92cc5349ed947734f81bf8a63637255c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d9c930c6e40a7b42fe90d2063b0bd6') in 0.044698 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000487 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset
-  artifactKey: Guid(65a3d375000f4b84e864f65bd9b9e2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset using Guid(65a3d375000f4b84e864f65bd9b9e2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd8b5c36104fc6fe79bf1f24e00a0d7') in 0.048310 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000760 seconds.
-  path: Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/DefaultLookDevProfile.asset
-  artifactKey: Guid(1106461446f519e41b1909d2cf62dd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/HDRPDefaultResources/DefaultLookDevProfile.asset using Guid(1106461446f519e41b1909d2cf62dd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31eb8596c7908e68b2f5adf88617c200') in 0.091570 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.883935 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Lights
-  artifactKey: Guid(09f70e3122c499b45b3ac2a18fe5b32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Lights using Guid(09f70e3122c499b45b3ac2a18fe5b32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd166505f350c129c88d9cf14e50235d') in 0.005256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001285 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Lights/VFX_Point_Light.prefab
-  artifactKey: Guid(9f90aa15c6b14234ea7247f33f09e816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Lights/VFX_Point_Light.prefab using Guid(9f90aa15c6b14234ea7247f33f09e816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897ee35f222944f26d47a99f021a62a8') in 0.118388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.146530 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials
-  artifactKey: Guid(08e295ef83ee61d45a3fcd562f6efe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials using Guid(08e295ef83ee61d45a3fcd562f6efe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53fef3cc73b33766c088e8b357ada594') in 0.006106 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.071097 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Ashes_01.mat
-  artifactKey: Guid(b744732df6265cc4a827f7067659a9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Ashes_01.mat using Guid(b744732df6265cc4a827f7067659a9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '8c3c8788c524964fad8f49512f6d97bc') in 0.286686 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000407 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_Quad_01.mat
-  artifactKey: Guid(8ae06bec34c22884ba2acfa17c229c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_Quad_01.mat using Guid(8ae06bec34c22884ba2acfa17c229c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Fire_Flames': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 677
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Fire_Flames': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 677
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '31a1a3b6a287d0827db26033ceaf7093') in 0.363730 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000515 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Heat_Haze_01.mat
-  artifactKey: Guid(baaa2cec864f7754f85ffc033e90a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Heat_Haze_01.mat using Guid(baaa2cec864f7754f85ffc033e90a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Heat_Haze': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 646
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Heat_Haze': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 646
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '518e754e7afdc29737860b0d2a3538ac') in 0.253563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000469 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Smoke_02.mat
-  artifactKey: Guid(53ffbbcb7f6882840a2ca2de114e4bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Smoke_02.mat using Guid(53ffbbcb7f6882840a2ca2de114e4bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: 'faeaa129177baa2f55ce3cc682bc7dc9') in 0.181519 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000528 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_02.mat
-  artifactKey: Guid(b3e5c1b02fb6c4044905c64bfe617c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_02.mat using Guid(b3e5c1b02fb6c4044905c64bfe617c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '1b01041cd1f06f6dd50f7f8996ba0a9f') in 0.248433 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_01.mat
-  artifactKey: Guid(d25212358480c694a848e3b76af38133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_01.mat using Guid(d25212358480c694a848e3b76af38133) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '2f33b9dbda82df3246f4c3ede88892db') in 0.150635 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000375 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Heat_Haze_02.mat
-  artifactKey: Guid(6a515d564041a2142ae1fe699a30cb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Heat_Haze_02.mat using Guid(6a515d564041a2142ae1fe699a30cb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Heat_Haze': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 646
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Heat_Haze': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 646
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '5541e51b059fdd73df50da3b55485139') in 0.149167 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000638 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Smoke_01.mat
-  artifactKey: Guid(1f96ba7a3c3ef3540b8dda1c860d8409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Smoke_01.mat using Guid(1f96ba7a3c3ef3540b8dda1c860d8409) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '9c960c542e4581596a097da5a7bb7869') in 0.103511 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000568 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_Quad_02.mat
-  artifactKey: Guid(8bd95ac271a28e84fb4ba257973640d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Fire_Quad_02.mat using Guid(8bd95ac271a28e84fb4ba257973640d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Fire_Flames': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 677
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Fire_Flames': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 677
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '135dfb94944af0e5494945683b79a8e5') in 0.183158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000470 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Dust_02.mat
-  artifactKey: Guid(d00b1c5a9f1e6874182c6e9fd20c9a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Dust_02.mat using Guid(d00b1c5a9f1e6874182c6e9fd20c9a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '87f6a7c7b0febb305056c74750dec3e3') in 0.101766 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000382 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Glow_01.mat
-  artifactKey: Guid(ac493e1c327eed74bb02b70a74d0486a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/M_VFX_Glow_01.mat using Guid(ac493e1c327eed74bb02b70a74d0486a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
-Shader error in 'Vefects/SH_Vefects_VFX_Particles_Erosion': Couldn't open include file 'Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl'. at line 682
-
-Compiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
-Disabled keywords: _SURFACE_TYPE_TRANSPARENT INSTANCING_ON _BLENDMODE_ALPHA _BLENDMODE_ADD _BLENDMODE_PRE_MULTIPLY _ALPHATEST_ON _ENABLE_FOG_ON_TRANSPARENT UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
-
- -> (artifact id: '066afdc45632a0f9f8d046eab8fba6cb') in 0.212827 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.192771 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles
-  artifactKey: Guid(4f59d408d1c85114db9830ab7148138e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles using Guid(4f59d408d1c85114db9830ab7148138e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050a79570c2276e3d51d1ae6674a7c4c') in 0.010350 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001437 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium_Simple.prefab
-  artifactKey: Guid(86cf272c329017647a3b0c6c6edcff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium_Simple.prefab using Guid(86cf272c329017647a3b0c6c6edcff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36780ea7f43e233f60c78b7d4b91553a') in 0.047862 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000574 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small.prefab
-  artifactKey: Guid(4e35892e4c5444340a0e2189311808e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small.prefab using Guid(4e35892e4c5444340a0e2189311808e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4faa701cafe88bb8a293621f07c12328') in 0.049385 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000419 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02_Simple.prefab
-  artifactKey: Guid(2367bf03da674184783a4254456143c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02_Simple.prefab using Guid(2367bf03da674184783a4254456143c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260cc43fb4a9f515d0bc6858e9f8e238') in 0.083834 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000838 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02_Smoke.prefab
-  artifactKey: Guid(982b091f07779d846ad915e29a06ddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02_Smoke.prefab using Guid(982b091f07779d846ad915e29a06ddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9fae6a13452eec02e9a0d7f25de9967') in 0.038370 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000610 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small_Simple.prefab
-  artifactKey: Guid(dd986d04bcc6dc748a53d8c3d1d42a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small_Simple.prefab using Guid(dd986d04bcc6dc748a53d8c3d1d42a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab011a2acf1f7e786ddf8b882036f7f') in 0.067190 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001512 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium.prefab
-  artifactKey: Guid(98c5ce036f68d8941922e7541fb70887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium.prefab using Guid(98c5ce036f68d8941922e7541fb70887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cf1b5a70f4b201a5511c5787492879') in 0.054255 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001401 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01_Smoke.prefab
-  artifactKey: Guid(7e8d30e7be9957c43862563919b4cbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01_Smoke.prefab using Guid(7e8d30e7be9957c43862563919b4cbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ae8401a4eb05f4c1f28fd081c22349') in 0.118180 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000576 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small_Smoke.prefab
-  artifactKey: Guid(e92a0207ed6f749459a3646c2aaf3cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Small_Smoke.prefab using Guid(e92a0207ed6f749459a3646c2aaf3cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadc2928b80e473a7cc76eac189c2e09') in 0.073876 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big.prefab
-  artifactKey: Guid(e91fa0fac941e714e8c4d5709097019f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big.prefab using Guid(e91fa0fac941e714e8c4d5709097019f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4e25a5689d16e9bce0ab8f61e0a3e6') in 0.056472 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000386 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big_Simple.prefab
-  artifactKey: Guid(244b1cc8940bd0844a05812855fbe45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big_Simple.prefab using Guid(244b1cc8940bd0844a05812855fbe45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bc4c457bd13315c7de8a9e5c6e772c') in 0.072312 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000773 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01_Simple.prefab
-  artifactKey: Guid(858e79faf6de940498a11b25374053d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01_Simple.prefab using Guid(858e79faf6de940498a11b25374053d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b9d4d93e4c365b2681bae1629c7faf') in 0.036720 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000419 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big_Smoke.prefab
-  artifactKey: Guid(8206b722d11501a449d6a278cca2adfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Big_Smoke.prefab using Guid(8206b722d11501a449d6a278cca2adfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95fbba22390f8f9ac5571e44ad4cd85') in 0.096545 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium_Smoke.prefab
-  artifactKey: Guid(e01f2e62cf41a3449be2dade3b2c2d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_01_Medium_Smoke.prefab using Guid(e01f2e62cf41a3449be2dade3b2c2d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ffa7efc0e1c2f7ad224de451623d5b2') in 0.059103 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000823 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02.prefab
-  artifactKey: Guid(11fa2034a1fc7ed40b0a644fa680c340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_02.prefab using Guid(11fa2034a1fc7ed40b0a644fa680c340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b49dd9b20bcc15ad4dc722e21c1ba74') in 0.038412 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000484 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01.prefab
-  artifactKey: Guid(2ee7574cb1211da4ba89d1838327b5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Particles/VFX_Fire_Floor_01.prefab using Guid(2ee7574cb1211da4ba89d1838327b5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84037b506242268cdf0dff70042b5ba3') in 0.041978 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.990871 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_03.tga
-  artifactKey: Guid(f1b6b10620016be45b38159cac55e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_03.tga using Guid(f1b6b10620016be45b38159cac55e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d198f7d34bde0fa6f7e65110f20683c') in 1.446607 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.017691 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Fire_Mask_01.tga
-  artifactKey: Guid(1c39f37a030014c4abc1e00881d7f68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Fire_Mask_01.tga using Guid(1c39f37a030014c4abc1e00881d7f68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9472508a7a33d39405d62e6d06ad65af') in 0.288917 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.849332 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Vefects Fire VFX Info Doc HDRP.pdf
-  artifactKey: Guid(c7b624f54cc16344ca5f9cf90e1a1a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Vefects Fire VFX Info Doc HDRP.pdf using Guid(c7b624f54cc16344ca5f9cf90e1a1a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef05ea28ce5dd621af39e0cd711be89b') in 0.027669 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.285444 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures
-  artifactKey: Guid(01747fc8d6a9af94faadb89b5414258e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures using Guid(01747fc8d6a9af94faadb89b5414258e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a143ab250c5035a29952dfc5e7add46c') in 0.036300 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Ash_01.tga
-  artifactKey: Guid(0cf971d2416006347b1f6b1c60b49c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Ash_01.tga using Guid(0cf971d2416006347b1f6b1c60b49c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458b344e129f0d85601a98861dd43ee3') in 0.048970 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000454 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Directional_Dust_01.tga
-  artifactKey: Guid(52a074a757c62bc448f9ef266ee7db81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Directional_Dust_01.tga using Guid(52a074a757c62bc448f9ef266ee7db81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983ac654264d81c14a05b3404b62c61d') in 0.088275 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000375 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Glow_01.tga
-  artifactKey: Guid(6f2550861d7935849be9ceb2fcd8ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Glow_01.tga using Guid(6f2550861d7935849be9ceb2fcd8ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863bbf39a4593d69d0a38cec0be3e447') in 0.069860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.003671 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Dust_01.tga
-  artifactKey: Guid(cd946dcaa5face64fb135a09e293d277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Dust_01.tga using Guid(cd946dcaa5face64fb135a09e293d277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f293876d22cc3060edc960c7ee7d3405') in 0.116350 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000422 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_Normal_02.tga
-  artifactKey: Guid(6e4cc1d1e3dc174458edd8746bbeb29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_Normal_02.tga using Guid(6e4cc1d1e3dc174458edd8746bbeb29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc585bb7f882ae9ca94b51620ce83882') in 0.070059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_04.tga
-  artifactKey: Guid(9de7d5a3e4481e3448ba87f8921e75c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_04.tga using Guid(9de7d5a3e4481e3448ba87f8921e75c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aac19b2d5d5b36e6691eec95d1f96ed') in 0.086445 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001304 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Fire_Ground_Mask_01.tga
-  artifactKey: Guid(48dc7bc18268b924c8348d314decc5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Fire_Ground_Mask_01.tga using Guid(48dc7bc18268b924c8348d314decc5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26d00cd50d81ea9e7169e14ef07bc6e') in 0.094716 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_07.tga
-  artifactKey: Guid(18fec5444868e3a4ea8d35621cf36657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_07.tga using Guid(18fec5444868e3a4ea8d35621cf36657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3318b74561b90be594d70c75bd2031e') in 0.102321 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000504 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_01.tga
-  artifactKey: Guid(78f9606de07f24a4f9ff540cc0087f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_01.tga using Guid(78f9606de07f24a4f9ff540cc0087f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9b45b613f2396503601a97fb923766') in 0.074898 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Gradient_Up_Down_01.tga
-  artifactKey: Guid(e4032b025693bfb47ae0e50da323b3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Gradient_Up_Down_01.tga using Guid(e4032b025693bfb47ae0e50da323b3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9eb07ef41dbee56d9dd641d76fda1f8') in 0.102431 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Ashes_01.tga
-  artifactKey: Guid(b9f0879f436c46149a1181e72f0b7848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Ashes_01.tga using Guid(b9f0879f436c46149a1181e72f0b7848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6041e2030d129d4c3b3ac753bfc27d5e') in 0.065915 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000376 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Smoke_01.tga
-  artifactKey: Guid(ce5c2d0c89125f04084fbd404c9291c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Smoke_01.tga using Guid(ce5c2d0c89125f04084fbd404c9291c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0909c50f68078dc06386e5374f4e6fac') in 0.071380 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000583 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_08.tga
-  artifactKey: Guid(4c7b88daf72dcdb4d85c35517cee3224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_08.tga using Guid(4c7b88daf72dcdb4d85c35517cee3224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2aa1fc23e4093d3d45cba9ede54bb7e') in 0.081579 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000578 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_Normal_01.tga
-  artifactKey: Guid(8df04d0fe9f306340b1fbbc2f035bdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Textures/T_VFX_Noise_Normal_01.tga using Guid(8df04d0fe9f306340b1fbbc2f035bdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ce97d8d0e303ea065ca300a4443c69') in 0.072904 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.785015 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Mask_01.mat
-  artifactKey: Guid(75fbc8a9165045f4b965da1da31a7b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Mask_01.mat using Guid(75fbc8a9165045f4b965da1da31a7b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a3087decf2068fa972ae5e42af781') in 0.205513 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.575382 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Shaders
-  artifactKey: Guid(8a434155888d41a449e1d4923ee41995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Shaders using Guid(8a434155888d41a449e1d4923ee41995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c57d6eed9d159adc1be1b1e8adc73c8') in 0.010215 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.617043 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Settings
-  artifactKey: Guid(6826381f51369c447b68d4744325eed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Settings using Guid(6826381f51369c447b68d4744325eed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855a64e5f6a64227cda4c56b8f8589fc') in 0.009705 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001015 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Settings/SkyandFogSettingsProfile.asset
-  artifactKey: Guid(8ba92e2dd7f884a0f88b98fa2d235fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Settings/SkyandFogSettingsProfile.asset using Guid(8ba92e2dd7f884a0f88b98fa2d235fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2cd6d6c6f8c7bdf504a82ae3daa658') in 0.059932 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.508834 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene
-  artifactKey: Guid(7d2ae1132c30b1240a6c908bfdb232da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene using Guid(7d2ae1132c30b1240a6c908bfdb232da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83f85f80b2d6800a1af643a92c77d85') in 0.005628 seconds 
+  path: Assets/Models/Asteroid/Materials
+  artifactKey: Guid(bc692f2be2487aa4fb0b8ca7f9f5a0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Asteroid/Materials using Guid(bc692f2be2487aa4fb0b8ca7f9f5a0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf30a34f5cb36e2de2b49c91a05ac8fe') in 0.235850 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.012291 seconds.
+Registered in 0.009740 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 5.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.180 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2679 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.8 MB.
-System memory in use after: 113.3 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3410.
-Total: 6.383000 ms (FindLiveObjects: 0.391600 ms CreateObjectMapping: 0.706700 ms MarkObjects: 4.629100 ms  DeleteObjects: 0.652300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 16561.856934 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Ground_Mask_01.mat
-  artifactKey: Guid(8755c4e26aab40f40a242396e8de1497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Fire_Ground_Mask_01.mat using Guid(8755c4e26aab40f40a242396e8de1497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5491b6f59b489b4910055fd1058c3bdf') in 0.336786 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000606 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Noise_07.mat
-  artifactKey: Guid(d7d9527bcb8bc39409cf645e30071881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Materials/T_VFX_Noise_07.mat using Guid(d7d9527bcb8bc39409cf645e30071881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3212b586f7332a7e2b12d200ce4a59aa') in 0.134351 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009744 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 15.305 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.4 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3414.
-Total: 80.819600 ms (FindLiveObjects: 0.831000 ms CreateObjectMapping: 0.472100 ms MarkObjects: 79.087400 ms  DeleteObjects: 0.424100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.027868 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 11.083 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.4 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3417.
-Total: 14.038900 ms (FindLiveObjects: 0.946800 ms CreateObjectMapping: 0.542000 ms MarkObjects: 11.961300 ms  DeleteObjects: 0.585700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 3.837969 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.464 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 303.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.4 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3420.
-Total: 17.158900 ms (FindLiveObjects: 0.429000 ms CreateObjectMapping: 0.374500 ms MarkObjects: 15.924500 ms  DeleteObjects: 0.427300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010397 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.340 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.4 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3423.
-Total: 13.441900 ms (FindLiveObjects: 0.563000 ms CreateObjectMapping: 0.329800 ms MarkObjects: 12.089200 ms  DeleteObjects: 0.456400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013519 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.850 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.5 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3426.
-Total: 11.831400 ms (FindLiveObjects: 1.431900 ms CreateObjectMapping: 0.376500 ms MarkObjects: 9.608000 ms  DeleteObjects: 0.411500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.016616 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  5.737 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.5 MB.
-System memory in use after: 112.9 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3429.
-Total: 6.448000 ms (FindLiveObjects: 0.893700 ms CreateObjectMapping: 0.378300 ms MarkObjects: 4.463200 ms  DeleteObjects: 0.710100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.017328 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  7.294 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 12.94 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.5 MB.
-System memory in use after: 113.0 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3432.
-Total: 9.352400 ms (FindLiveObjects: 0.376400 ms CreateObjectMapping: 1.100200 ms MarkObjects: 6.998900 ms  DeleteObjects: 0.874000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2728.529185 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Prefabs
-  artifactKey: Guid(280c88f28e8b32a409066d6c15574ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Prefabs using Guid(280c88f28e8b32a409066d6c15574ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcad37bde3470908399e802b860fc6b4') in 0.022972 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000474 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Prefabs/VFX.prefab
-  artifactKey: Guid(d201da8ae49151e45a91c6cc91a24794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Prefabs/VFX.prefab using Guid(d201da8ae49151e45a91c6cc91a24794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6b2c0b3a79a7d03261a848967f8819') in 0.378431 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.088463 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Textures
-  artifactKey: Guid(de75513dddfce0541ba9394d2ff884fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures using Guid(de75513dddfce0541ba9394d2ff884fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062c361897d4108b187e691b463dc6a1') in 0.006586 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.092551 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Base_Color.TGA
-  artifactKey: Guid(7e86780f8818d774781e18cdb159f2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Base_Color.TGA using Guid(7e86780f8818d774781e18cdb159f2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c086414011347900391e152d7f09a5') in 0.262295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Normal.TGA
-  artifactKey: Guid(4f1502c89b49fa2419daab4477020e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Textures/Metrics_Grid_Normal.TGA using Guid(4f1502c89b49fa2419daab4477020e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91209b6deea1310d8a004c6f1d0be94a') in 0.213750 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.682974 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Scenes
-  artifactKey: Guid(507d8be37dcea494ea8e021866c5224e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Scenes using Guid(507d8be37dcea494ea8e021866c5224e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353500e44382ac51676839740e148183') in 0.018013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.364317 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes
-  artifactKey: Guid(cc9d7952e97350b42b40a81a21f1e792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes using Guid(cc9d7952e97350b42b40a81a21f1e792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e51e98f2f6244e40c14768c960be10') in 0.015001 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000138 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.prefab
-  artifactKey: Guid(b47c589d04b11f14886e94f837327111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.prefab using Guid(b47c589d04b11f14886e94f837327111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10bf54214e43926a47a5d9774935815') in 0.229125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000587 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.fbx
-  artifactKey: Guid(89209d2c2872ccb44adf7a6e4142fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Meshes/SM_VFX_Background_Plate_01.fbx using Guid(89209d2c2872ccb44adf7a6e4142fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c00da444f54d43217ab2f70a760913f') in 0.451836 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.667193 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Materials
-  artifactKey: Guid(07b736c9aafb12748b05a3746fa74e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Materials using Guid(07b736c9aafb12748b05a3746fa74e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30c4a7d4cbde59010902244aca2381c') in 0.018014 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000531 seconds.
-  path: Assets/Vefects/Free Fire HDRP/Scene/Materials/M_Grid.mat
-  artifactKey: Guid(1f0ecf64f0cd0d64b82f3103c6239873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Vefects/Free Fire HDRP/Scene/Materials/M_Grid.mat using Guid(1f0ecf64f0cd0d64b82f3103c6239873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbb8b214bbd2daf3b994a513080f006') in 0.119736 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 495.211865 seconds.
-  path: Assets/PyroParticles
-  artifactKey: Guid(156c31c9ca07943489eab896702f361a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles using Guid(156c31c9ca07943489eab896702f361a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d100caa87e9a06533287cd67b38ff6') in 0.006625 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.701669 seconds.
-  path: Assets/PyroParticles/Prefab
-  artifactKey: Guid(1f512f196d39a9848951edc97c7aa360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab using Guid(1f512f196d39a9848951edc97c7aa360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd095be123128bbcfaf73fa8be357ae86') in 0.017543 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.552797 seconds.
-  path: Assets/PyroParticles/Prefab/Materials
-  artifactKey: Guid(a1ea584efde8a2b459b000a1d3f8a668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials using Guid(a1ea584efde8a2b459b000a1d3f8a668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a70e86d320a947480186ef770492ce9') in 0.043403 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000883 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlame3SheetMaterial.mat
-  artifactKey: Guid(c8741e37416c2c340840b041f165218a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlame3SheetMaterial.mat using Guid(c8741e37416c2c340840b041f165218a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: 'ead317f31787b5d1fe0bf61e282e6d06') in 0.131741 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.013553 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorSheetMaterial.mat
-  artifactKey: Guid(9adad2d2767f88e4dbb1b2b0cf704110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorSheetMaterial.mat using Guid(9adad2d2767f88e4dbb1b2b0cf704110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479250365abbf5955fa22e9b05f296c4') in 0.073296 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticalSmokeMaterial.mat
-  artifactKey: Guid(686b6124da653dd46bbb7825a4d55a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticalSmokeMaterial.mat using Guid(686b6124da653dd46bbb7825a4d55a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb12bc13a212178596086a03a3d7c452') in 0.203974 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSparkSheetMaterial.mat
-  artifactKey: Guid(8c21858337a2204498f876bc9d570292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSparkSheetMaterial.mat using Guid(8c21858337a2204498f876bc9d570292) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: '3e68ddb4278708a359b2451f1af52781') in 0.036186 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.007248 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor4Material.mat
-  artifactKey: Guid(9f663aa0d3dc3f44389306ed68c6c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor4Material.mat using Guid(9f663aa0d3dc3f44389306ed68c6c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3004bf73c14b2ce7aeea9db94bbf1097') in 0.118256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000418 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlameSheetMaterial.mat
-  artifactKey: Guid(bfb96bb86f3f7c349a574d4cdb56f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlameSheetMaterial.mat using Guid(bfb96bb86f3f7c349a574d4cdb56f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: 'a96653138560d3d1bd3a31bd2d132e0f') in 0.118873 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000412 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSingleMaterial.mat
-  artifactKey: Guid(ba67e6036fc0e6e458a752d8c702039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSingleMaterial.mat using Guid(ba67e6036fc0e6e458a752d8c702039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: '80f29dd3d96c3a536962ed327723fad1') in 0.096468 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000451 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleGlowMaterial.mat
-  artifactKey: Guid(3eb8cc4a6fb112f418bc9ccff02be21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleGlowMaterial.mat using Guid(3eb8cc4a6fb112f418bc9ccff02be21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: '4c831f1ac108e4c58a5fed1117a9a00b') in 0.043282 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000427 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorMaterial.mat
-  artifactKey: Guid(c975a23d2a12fb04cb68170f0ba3b056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorMaterial.mat using Guid(c975a23d2a12fb04cb68170f0ba3b056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c0c71c2e0eeaef2fdcd27ac5e20b65') in 0.092991 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000647 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor2Material.mat
-  artifactKey: Guid(06bcc524020473946802a42e97a47794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor2Material.mat using Guid(06bcc524020473946802a42e97a47794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd4491b885ca516248f62c8a3f52daa') in 0.096005 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000359 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlameLickSheetMaterial.mat
-  artifactKey: Guid(b1a62c49a92b7b942bb4a77f32a3ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlameLickSheetMaterial.mat using Guid(b1a62c49a92b7b942bb4a77f32a3ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b8a0e51043ab0c5fb233c91a7c12da') in 0.159381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000425 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSoftMaterial.mat
-  artifactKey: Guid(c10b1630d5621ec48a17223c3c102023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSoftMaterial.mat using Guid(c10b1630d5621ec48a17223c3c102023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4fcfcebdd52cc3894d3e8c724679ec3') in 0.120586 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000540 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFireballSheetMaterial.mat
-  artifactKey: Guid(a19e9e94e5f841049832268b2ff29717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFireballSheetMaterial.mat using Guid(a19e9e94e5f841049832268b2ff29717) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
- -> (artifact id: '4934a71e063a9fb74ae5cec63de93b64') in 0.050470 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000477 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor3Material.mat
-  artifactKey: Guid(3a0fd5be2a3fcea46aeeee98d9790939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor3Material.mat using Guid(3a0fd5be2a3fcea46aeeee98d9790939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68afb3325f6914153a06b042eac5594') in 0.039848 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSparkMaterial.mat
-  artifactKey: Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSparkMaterial.mat using Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0950e075571e7d80dd7c13027ff3acd') in 0.071771 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000377 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorPhysicsMaterial.physicMaterial
-  artifactKey: Guid(9dbc457aacb4ed945a27532a755ba760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorPhysicsMaterial.physicMaterial using Guid(9dbc457aacb4ed945a27532a755ba760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d28884dbac404df431126383f481e4a') in 0.059871 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.026885 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.981 seconds
+- Completed reload, in  3.542 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.3 MB.
+System memory in use after: 101.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3144.
+Total: 20.542600 ms (FindLiveObjects: 0.350200 ms CreateObjectMapping: 0.295300 ms MarkObjects: 19.461400 ms  DeleteObjects: 0.432300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 361.515189 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(b1bff283ada586d47a74be543d21731f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(b1bff283ada586d47a74be543d21731f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92998eb39b8fefc88d41810ce0f1ad0') in 0.036430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.204431 seconds.
+  path: Assets/Prefabs/Asteroid.prefab
+  artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20f1427944ead64b4528821847a8ca3') in 0.818924 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.835 seconds
+Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.63 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 123.7 MB.
-System memory in use after: 123.2 MB.
+System memory in use before: 106.1 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3485.
-Total: 6.939700 ms (FindLiveObjects: 0.396500 ms CreateObjectMapping: 0.229700 ms MarkObjects: 5.882100 ms  DeleteObjects: 0.428600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 311.837095 seconds.
-  path: Assets/PyroParticles/Demo
-  artifactKey: Guid(eb7216d604c894143a86709d6c29edda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo using Guid(eb7216d604c894143a86709d6c29edda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aaec44d85df0bd072cafb39d38f39ff') in 0.020210 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.342429 seconds.
-  path: Assets/PyroParticles/Demo/CrateMaterial.mat
-  artifactKey: Guid(524b19cf72af34a4d910db01feceaa68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/CrateMaterial.mat using Guid(524b19cf72af34a4d910db01feceaa68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce4e1cf886a3bf8883e2ca11ef2beba') in 0.278274 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000394 seconds.
-  path: Assets/PyroParticles/Demo/CratePrefab.prefab
-  artifactKey: Guid(12263925bd92ff44a998598877e693a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/CratePrefab.prefab using Guid(12263925bd92ff44a998598877e693a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa8ab274f41c0a855c470a4bbeea2db') in 0.136916 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000424 seconds.
-  path: Assets/PyroParticles/Demo/GroundMaterial.mat
-  artifactKey: Guid(0d5235a7c819c56458eed6c660319223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/GroundMaterial.mat using Guid(0d5235a7c819c56458eed6c660319223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515a2ca9a29ff509b9f03e6085e8f9a7') in 0.132905 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000404 seconds.
-  path: Assets/PyroParticles/Demo/GroundPlane.prefab
-  artifactKey: Guid(f45d0aac4a59fb64ab8f6b07579e6b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/GroundPlane.prefab using Guid(f45d0aac4a59fb64ab8f6b07579e6b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b2ec8a72c9b63917740ff9e3fe83bb') in 0.149805 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000428 seconds.
-  path: Assets/PyroParticles/Demo/Ground-Normal.jpg
-  artifactKey: Guid(20e7919d92daa814ab85b18ce67de8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/Ground-Normal.jpg using Guid(20e7919d92daa814ab85b18ce67de8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19b5707fc0d8e3e024813179ce8a3bf') in 0.136221 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/PyroParticles/Demo/CratePhysicsMaterial.physicMaterial
-  artifactKey: Guid(42f09312a07995948980601c8901b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/CratePhysicsMaterial.physicMaterial using Guid(42f09312a07995948980601c8901b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e607d17deca35fcca8b7aebf9252b8fe') in 0.048214 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.065530 seconds.
-  path: Assets/PyroParticles/Demo/GroundPlanePhysicsMaterial.physicMaterial
-  artifactKey: Guid(ed39ec1489b586d4bbadd0831bc1d129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/GroundPlanePhysicsMaterial.physicMaterial using Guid(ed39ec1489b586d4bbadd0831bc1d129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddeff2f9161473a1a54a4aed1851a439') in 0.011957 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/PyroParticles/Demo/Ground-Diffuse.jpg
-  artifactKey: Guid(75c7e8672f334a14fa6992e32d7368ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/Ground-Diffuse.jpg using Guid(75c7e8672f334a14fa6992e32d7368ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976027032565349573548e938cdea426') in 0.054118 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000598 seconds.
-  path: Assets/PyroParticles/Demo/CrateTexture_Normal.tga
-  artifactKey: Guid(b3a32eb66816c4e4587d83a2f3bfe424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/CrateTexture_Normal.tga using Guid(b3a32eb66816c4e4587d83a2f3bfe424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af0354b99d71ced5adca70b47e45790') in 0.116451 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000652 seconds.
-  path: Assets/PyroParticles/Demo/CrateTexture_Diffuse.tga
-  artifactKey: Guid(21918c57fca997a49832f8e376158842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Demo/CrateTexture_Diffuse.tga using Guid(21918c57fca997a49832f8e376158842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fb57bcd8db5d238b85377e5f884764') in 0.081638 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.087959 seconds.
-  path: Assets/PyroParticles/Prefab/Editor
-  artifactKey: Guid(ea753c57763f9334fa01b3097077b5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Editor using Guid(ea753c57763f9334fa01b3097077b5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f58a83b11c9e3e3b8294d0d3b2f697') in 0.014944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000868 seconds.
-  path: Assets/PyroParticles/Prefab/Editor/PyroParticlesLogo.png
-  artifactKey: Guid(3f5cccaa9e8a292448e79f8d62a532ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Editor/PyroParticlesLogo.png using Guid(3f5cccaa9e8a292448e79f8d62a532ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00232aaf5e2a15770f8f04a5da5a5414') in 0.115956 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.431839 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticalSmokeMaterial.mat
-  artifactKey: Guid(686b6124da653dd46bbb7825a4d55a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticalSmokeMaterial.mat using Guid(686b6124da653dd46bbb7825a4d55a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b0e5fc33f0a0c623a909029cac91cd') in 0.035143 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000503 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlame3SheetMaterial.mat
-  artifactKey: Guid(c8741e37416c2c340840b041f165218a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlame3SheetMaterial.mat using Guid(c8741e37416c2c340840b041f165218a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b698bfb519057e24ac1c4e899b5c888') in 0.116973 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000569 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorSheetMaterial.mat
-  artifactKey: Guid(9adad2d2767f88e4dbb1b2b0cf704110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorSheetMaterial.mat using Guid(9adad2d2767f88e4dbb1b2b0cf704110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6391cba0c8734154cdad29486370de2') in 0.091201 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.002033 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSparkSheetMaterial.mat
-  artifactKey: Guid(8c21858337a2204498f876bc9d570292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSparkSheetMaterial.mat using Guid(8c21858337a2204498f876bc9d570292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91171e4d8f777dc38ecd724245ce49c3') in 0.097784 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.005827 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor4Material.mat
-  artifactKey: Guid(9f663aa0d3dc3f44389306ed68c6c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor4Material.mat using Guid(9f663aa0d3dc3f44389306ed68c6c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee64dc9f50f5a0a01fa2c2caed91c7a') in 0.186356 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlameSheetMaterial.mat
-  artifactKey: Guid(bfb96bb86f3f7c349a574d4cdb56f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlameSheetMaterial.mat using Guid(bfb96bb86f3f7c349a574d4cdb56f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684c52298ecda2e1626ba89020887a48') in 0.130126 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000466 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSingleMaterial.mat
-  artifactKey: Guid(ba67e6036fc0e6e458a752d8c702039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSingleMaterial.mat using Guid(ba67e6036fc0e6e458a752d8c702039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0a8888d1809ff8039342b989d8cab2') in 0.230525 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000728 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleGlowMaterial.mat
-  artifactKey: Guid(3eb8cc4a6fb112f418bc9ccff02be21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleGlowMaterial.mat using Guid(3eb8cc4a6fb112f418bc9ccff02be21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cba20d1d67d1cb925d917a7ae3f66e') in 0.065435 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000775 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorMaterial.mat
-  artifactKey: Guid(c975a23d2a12fb04cb68170f0ba3b056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorMaterial.mat using Guid(c975a23d2a12fb04cb68170f0ba3b056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f050fe33676a132d7746af8244f4ce0a') in 0.120877 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000531 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor2Material.mat
-  artifactKey: Guid(06bcc524020473946802a42e97a47794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor2Material.mat using Guid(06bcc524020473946802a42e97a47794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956647d04fbc46084e67de18652a6385') in 0.119009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000696 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFlameLickSheetMaterial.mat
-  artifactKey: Guid(b1a62c49a92b7b942bb4a77f32a3ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFlameLickSheetMaterial.mat using Guid(b1a62c49a92b7b942bb4a77f32a3ea17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76d70ba105bb1a8728ce1f35b4e3336') in 0.132803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000451 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSoftMaterial.mat
-  artifactKey: Guid(c10b1630d5621ec48a17223c3c102023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSoftMaterial.mat using Guid(c10b1630d5621ec48a17223c3c102023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1105ec77dc3d17952cf244fd21a7a09') in 0.045679 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000497 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleFireballSheetMaterial.mat
-  artifactKey: Guid(a19e9e94e5f841049832268b2ff29717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleFireballSheetMaterial.mat using Guid(a19e9e94e5f841049832268b2ff29717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec8bcc2b2e1f7400c19f4d7573fa73f') in 0.162183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000541 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteor3Material.mat
-  artifactKey: Guid(3a0fd5be2a3fcea46aeeee98d9790939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteor3Material.mat using Guid(3a0fd5be2a3fcea46aeeee98d9790939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4d51a875cd94c14ecf36892531df2f') in 0.136820 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000415 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleSparkMaterial.mat
-  artifactKey: Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleSparkMaterial.mat using Guid(f63c576739a709747a1a571260d4fabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8117fb39bf3b2cbd63fda21b3cf2255e') in 0.050183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000546 seconds.
-  path: Assets/PyroParticles/Prefab/Materials/FireParticleMeteorPhysicsMaterial.physicMaterial
-  artifactKey: Guid(9dbc457aacb4ed945a27532a755ba760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PyroParticles/Prefab/Materials/FireParticleMeteorPhysicsMaterial.physicMaterial using Guid(9dbc457aacb4ed945a27532a755ba760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7116b05ae3294a5c84a4031ad136ce8b') in 0.020013 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.018216 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 20.760 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 11.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2678 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3567.
-Total: 5.232800 ms (FindLiveObjects: 0.428800 ms CreateObjectMapping: 0.314800 ms MarkObjects: 3.828600 ms  DeleteObjects: 0.657700 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3155.
+Total: 3.555100 ms (FindLiveObjects: 0.307400 ms CreateObjectMapping: 0.202000 ms MarkObjects: 2.682200 ms  DeleteObjects: 0.361300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005726 seconds.
+Registered in 0.010565 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.958 seconds
+- Completed reload, in  2.918 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.2 MB.
-System memory in use after: 135.7 MB.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.1 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3570.
-Total: 12.431700 ms (FindLiveObjects: 1.380100 ms CreateObjectMapping: 0.423600 ms MarkObjects: 10.209900 ms  DeleteObjects: 0.414800 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3158.
+Total: 5.458900 ms (FindLiveObjects: 0.547000 ms CreateObjectMapping: 0.449100 ms MarkObjects: 3.787800 ms  DeleteObjects: 0.671800 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1484.792882 seconds.
+  path: Assets/Scripts/Asteroid.cs
+  artifactKey: Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Asteroid.cs using Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a26108195211d1126a1fe617097f5aa') in 0.198103 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.023622 seconds.
+Registered in 0.016102 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  5.039 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.2 MB.
-System memory in use after: 135.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3573.
-Total: 14.099100 ms (FindLiveObjects: 9.921600 ms CreateObjectMapping: 0.317000 ms MarkObjects: 2.999200 ms  DeleteObjects: 0.855500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.043209 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.534 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
 Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.2 MB.
-System memory in use after: 135.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3576.
-Total: 49.879200 ms (FindLiveObjects: 0.489300 ms CreateObjectMapping: 44.304600 ms MarkObjects: 4.649500 ms  DeleteObjects: 0.431100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010502 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 29.05 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.323 seconds
+- Completed reload, in  5.412 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.1 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3579.
-Total: 7.738400 ms (FindLiveObjects: 0.519300 ms CreateObjectMapping: 0.262700 ms MarkObjects: 6.468200 ms  DeleteObjects: 0.485700 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 25.366800 ms (FindLiveObjects: 0.773100 ms CreateObjectMapping: 21.155500 ms MarkObjects: 2.946700 ms  DeleteObjects: 0.487100 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 227.682661 seconds.
+  path: Assets/Scripts/Asteroid.cs
+  artifactKey: Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Asteroid.cs using Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc463ea873aa756f37eb1124e4210dbb') in 0.213962 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.018335 seconds.
+Registered in 0.011043 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.13 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.182 seconds
+- Completed reload, in  5.135 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 3.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.1 MB.
+System memory in use after: 105.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3164.
+Total: 28.642500 ms (FindLiveObjects: 1.672100 ms CreateObjectMapping: 1.398700 ms MarkObjects: 25.120700 ms  DeleteObjects: 0.445700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.703322 seconds.
+  path: Assets/Scripts/Asteroid.cs
+  artifactKey: Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Asteroid.cs using Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce88c8e7a1272423327d0a403afce47') in 0.243418 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014564 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.137 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.1 MB.
+System memory in use after: 105.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3167.
+Total: 4.902700 ms (FindLiveObjects: 0.792600 ms CreateObjectMapping: 0.296500 ms MarkObjects: 3.252400 ms  DeleteObjects: 0.553600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.784570 seconds.
+  path: Assets/Scripts/Asteroid.cs
+  artifactKey: Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Asteroid.cs using Guid(af6660cd3b8cbc249a0f74119b8aaeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c12acb35dcae4f8f1b9d363bca51ba0') in 0.287675 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014076 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.128 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
 Refreshing native plugins compatible for Editor in 2.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3582.
-Total: 4.053500 ms (FindLiveObjects: 0.382500 ms CreateObjectMapping: 0.210300 ms MarkObjects: 3.042500 ms  DeleteObjects: 0.414000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006151 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  6.643 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3585.
-Total: 5.342500 ms (FindLiveObjects: 0.665500 ms CreateObjectMapping: 0.680500 ms MarkObjects: 3.561200 ms  DeleteObjects: 0.431400 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3170.
+Total: 16.871500 ms (FindLiveObjects: 0.588300 ms CreateObjectMapping: 0.260200 ms MarkObjects: 15.635700 ms  DeleteObjects: 0.384300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.043392 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.456 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 15.50 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3588.
-Total: 14.821900 ms (FindLiveObjects: 0.410100 ms CreateObjectMapping: 0.414400 ms MarkObjects: 13.440400 ms  DeleteObjects: 0.554100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 7062.126138 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials
-  artifactKey: Guid(957cc5486fb9dc34ea29673bc3db92e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials using Guid(957cc5486fb9dc34ea29673bc3db92e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f90e62883cc483508edeb8db764b0a4') in 0.043405 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000750 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Top.mat
-  artifactKey: Guid(487b24d513e1c6042ba0935f7f270284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Top.mat using Guid(487b24d513e1c6042ba0935f7f270284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca4c7f911fbbd0c05a024e612ed0e9a') in 0.653076 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.010776 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Front.mat
-  artifactKey: Guid(641c5e95f86a6a04893cf47713899753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Front.mat using Guid(641c5e95f86a6a04893cf47713899753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5ce79e4c96f17035d4dbbaf4221e3e') in 0.211574 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.135607 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Left.mat
-  artifactKey: Guid(3b7e48779da41d2479dd939dfcbccb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Left.mat using Guid(3b7e48779da41d2479dd939dfcbccb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c912c638e4a6a497b4b4ad4d9d9223') in 0.100274 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.008452 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Right.mat
-  artifactKey: Guid(4599d9301685e25408f08b9f84f45e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Right.mat using Guid(4599d9301685e25408f08b9f84f45e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a592f33b9aa01ba1f35d1ca68b2b590a') in 0.318225 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.076734 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Bottom.mat
-  artifactKey: Guid(14c8f1d628f26b9479db62465a3cf560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Bottom.mat using Guid(14c8f1d628f26b9479db62465a3cf560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1874d333b3e0fc9bb41ce0b7cbb12a') in 0.124813 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001414 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat
-  artifactKey: Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat using Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e1f88bfda2d9a8a023ae470de8deed') in 0.149053 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008095 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.71 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  9.818 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3592.
-Total: 5.119800 ms (FindLiveObjects: 0.539700 ms CreateObjectMapping: 0.398900 ms MarkObjects: 3.652100 ms  DeleteObjects: 0.524600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005687 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.814 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3595.
-Total: 13.498500 ms (FindLiveObjects: 0.422200 ms CreateObjectMapping: 0.273900 ms MarkObjects: 12.251300 ms  DeleteObjects: 0.547900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008448 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.086 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 3.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.3 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3598.
-Total: 35.613200 ms (FindLiveObjects: 1.762600 ms CreateObjectMapping: 0.459000 ms MarkObjects: 32.869100 ms  DeleteObjects: 0.518800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013051 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.607 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.4 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3601.
-Total: 19.031000 ms (FindLiveObjects: 0.378700 ms CreateObjectMapping: 0.252300 ms MarkObjects: 17.959100 ms  DeleteObjects: 0.437900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.965513 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.542 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.4 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3604.
-Total: 5.545600 ms (FindLiveObjects: 0.400300 ms CreateObjectMapping: 0.347700 ms MarkObjects: 4.024800 ms  DeleteObjects: 0.769600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.016954 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.462 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.4 MB.
-System memory in use after: 135.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3607.
-Total: 5.602000 ms (FindLiveObjects: 1.011100 ms CreateObjectMapping: 0.262500 ms MarkObjects: 3.328500 ms  DeleteObjects: 0.997200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 86978.976513 seconds.
-  path: Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat
-  artifactKey: Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Skybox/Materials/Blue - Back.mat using Guid(7c00e1d2b1f323c48b15c4c01ae9be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde31e8956f428d981af027b38f77843') in 0.553424 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 570.265394 seconds.
-  path: Assets/Textures/Environment/Floor/New Material.mat
-  artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15eba30cc7a6ddfeecd5ed2ee058b92c') in 0.146311 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 443.363102 seconds.
-  path: Assets/Textures/Environment/Floor/New Material.mat
-  artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33d4bd1cb3834308217da99933aeee5') in 0.134158 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.048770 seconds.
+Registered in 0.015697 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.658 seconds
+- Completed reload, in  6.023 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.5 MB.
-System memory in use after: 136.0 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3612.
-Total: 5.158600 ms (FindLiveObjects: 0.480500 ms CreateObjectMapping: 0.421600 ms MarkObjects: 3.529200 ms  DeleteObjects: 0.724200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 137.292726 seconds.
-  path: Assets/Textures/Environment/Floor/Materials
-  artifactKey: Guid(0faae451244665e49a9c0f365c62f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/Materials using Guid(0faae451244665e49a9c0f365c62f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f06febf194bc14b371619668771459a') in 0.036869 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006395 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.928 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.5 MB.
-System memory in use after: 136.0 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3615.
-Total: 4.859200 ms (FindLiveObjects: 0.546000 ms CreateObjectMapping: 0.352600 ms MarkObjects: 3.448300 ms  DeleteObjects: 0.509600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 118.729412 seconds.
-  path: Assets/Textures/Environment/Floor/New Material.mat
-  artifactKey: Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/New Material.mat using Guid(4c0e8508f7c2cab40b16286ee6124a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea7b925d06778856b7c75407a8aead0') in 0.657501 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009082 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.016 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2673 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3619.
-Total: 6.485400 ms (FindLiveObjects: 0.473800 ms CreateObjectMapping: 0.400800 ms MarkObjects: 5.093900 ms  DeleteObjects: 0.513700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 149.136043 seconds.
-  path: Assets/Scripts/ScrollTexture.cs
-  artifactKey: Guid(bf2855e0d2aaba94fab0c7d945f83912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ScrollTexture.cs using Guid(bf2855e0d2aaba94fab0c7d945f83912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea4c6610ba0a2a2a801e126e662f99a') in 5.148002 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005627 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 10.979 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3623.
-Total: 12.941500 ms (FindLiveObjects: 0.380300 ms CreateObjectMapping: 0.213000 ms MarkObjects: 11.641400 ms  DeleteObjects: 0.703800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.150755 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 4.89 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.599 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3626.
-Total: 5.896900 ms (FindLiveObjects: 1.273400 ms CreateObjectMapping: 0.371300 ms MarkObjects: 3.815000 ms  DeleteObjects: 0.434300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.058726 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.209 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3629.
-Total: 5.137600 ms (FindLiveObjects: 0.389400 ms CreateObjectMapping: 0.258600 ms MarkObjects: 4.054000 ms  DeleteObjects: 0.433000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.058971 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 105.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3173.
+Total: 5.254000 ms (FindLiveObjects: 0.401500 ms CreateObjectMapping: 0.334400 ms MarkObjects: 4.060000 ms  DeleteObjects: 0.455100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.928 seconds
+- Completed reload, in  5.957 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
 Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3632.
-Total: 5.970600 ms (FindLiveObjects: 0.522300 ms CreateObjectMapping: 0.348300 ms MarkObjects: 4.526200 ms  DeleteObjects: 0.569600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.016581 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.843 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.6 MB.
-System memory in use after: 136.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3635.
-Total: 5.105700 ms (FindLiveObjects: 0.504000 ms CreateObjectMapping: 0.362500 ms MarkObjects: 3.622600 ms  DeleteObjects: 0.612600 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3176.
+Total: 5.314000 ms (FindLiveObjects: 0.416500 ms CreateObjectMapping: 0.351100 ms MarkObjects: 4.071300 ms  DeleteObjects: 0.471600 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.018332 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  7.779 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 8.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.8 MB.
-System memory in use after: 136.3 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3638.
-Total: 4.466500 ms (FindLiveObjects: 0.662300 ms CreateObjectMapping: 0.336600 ms MarkObjects: 3.043400 ms  DeleteObjects: 0.421700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014152 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  6.426 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.8 MB.
-System memory in use after: 136.3 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3641.
-Total: 6.099900 ms (FindLiveObjects: 0.502900 ms CreateObjectMapping: 0.310700 ms MarkObjects: 4.811600 ms  DeleteObjects: 0.471500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011648 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 123.99 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 26.443 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.9 MB.
-System memory in use after: 136.3 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3644.
-Total: 42.519900 ms (FindLiveObjects: 0.440100 ms CreateObjectMapping: 0.311700 ms MarkObjects: 35.271200 ms  DeleteObjects: 6.493700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.027826 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 19.095 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 131.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 137.0 MB.
-System memory in use after: 136.5 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3647.
-Total: 8.359500 ms (FindLiveObjects: 0.554200 ms CreateObjectMapping: 0.511400 ms MarkObjects: 6.100900 ms  DeleteObjects: 1.189600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012332 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in 10.575 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.9 MB.
-System memory in use after: 136.3 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3650.
-Total: 4.586300 ms (FindLiveObjects: 0.483000 ms CreateObjectMapping: 0.370300 ms MarkObjects: 3.312600 ms  DeleteObjects: 0.416800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013271 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.93 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  6.930 seconds
-Platform modules already initialized, skipping
-Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.9 MB.
-System memory in use after: 136.4 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3653.
-Total: 6.478900 ms (FindLiveObjects: 0.747600 ms CreateObjectMapping: 0.703200 ms MarkObjects: 4.577400 ms  DeleteObjects: 0.447500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 51485.779351 seconds.
-  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
-  artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0936032076a1f381581d2b6b33e5bd') in 0.397992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2165.157576 seconds.
-  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
-  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97d34a9973061e9de575e43f7bb2d32') in 0.539269 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.135312 seconds.
-  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
-  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910f66c69da4172c342cb187104ef6e9') in 0.330016 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 22.720637 seconds.
-  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
-  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b9f0fa195986dbd9f25889daec2f13') in 0.173069 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 201.115992 seconds.
-  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.tga
-  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b98614b482620d83fb301a27325f197') in 0.098567 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 265.771446 seconds.
-  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
-  artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3afc1b7ffe71e1c80c72d46a0f4e534') in 0.141456 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.048411 seconds.
+Registered in 0.015689 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.326 seconds
+- Completed reload, in  5.892 seconds
 Platform modules already initialized, skipping
 Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 140.4 MB.
-System memory in use after: 139.9 MB.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 105.6 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3746.
-Total: 7.650200 ms (FindLiveObjects: 0.386300 ms CreateObjectMapping: 0.213800 ms MarkObjects: 6.444300 ms  DeleteObjects: 0.603400 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3179.
+Total: 12.093300 ms (FindLiveObjects: 0.354400 ms CreateObjectMapping: 0.577000 ms MarkObjects: 10.740500 ms  DeleteObjects: 0.418500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 782.007183 seconds.
+  Time since last request: 305.617547 seconds.
+  path: Assets/Prefabs/Asteroid.prefab
+  artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47520eed7b09842b32661fe93134e76') in 1.840274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.715512 seconds.
   path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
   artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf45c283536f35822097538ef6197668') in 1.036553 seconds 
+Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6535a5120c8253ad9bb8842c274ce93f') in 0.446801 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.335 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.4 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3216.
+Total: 11.348600 ms (FindLiveObjects: 0.964600 ms CreateObjectMapping: 0.994000 ms MarkObjects: 8.887800 ms  DeleteObjects: 0.498600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.923 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.4 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3219.
+Total: 116.997000 ms (FindLiveObjects: 0.839600 ms CreateObjectMapping: 78.456600 ms MarkObjects: 37.230600 ms  DeleteObjects: 0.464300 ms)
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
