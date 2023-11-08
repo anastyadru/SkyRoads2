@@ -1820,3 +1820,61 @@ Received Import Request.
   path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
   artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0936032076a1f381581d2b6b33e5bd') in 0.397992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2165.157576 seconds.
+  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
+  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97d34a9973061e9de575e43f7bb2d32') in 0.539269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.135312 seconds.
+  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
+  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910f66c69da4172c342cb187104ef6e9') in 0.330016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.720637 seconds.
+  path: Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga
+  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b9f0fa195986dbd9f25889daec2f13') in 0.173069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 201.115992 seconds.
+  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.tga
+  artifactKey: Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.tga using Guid(a2acd5db4b23dcc4d8e37abba17649af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b98614b482620d83fb301a27325f197') in 0.098567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 265.771446 seconds.
+  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
+  artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3afc1b7ffe71e1c80c72d46a0f4e534') in 0.141456 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.048411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.326 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 139.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3746.
+Total: 7.650200 ms (FindLiveObjects: 0.386300 ms CreateObjectMapping: 0.213800 ms MarkObjects: 6.444300 ms  DeleteObjects: 0.603400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 782.007183 seconds.
+  path: Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat
+  artifactKey: Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Environment/Floor/Materials/sci_fi_002_Diffuse.mat using Guid(27e50eb3ee37ee844af2d35376a7aadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf45c283536f35822097538ef6197668') in 1.036553 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
