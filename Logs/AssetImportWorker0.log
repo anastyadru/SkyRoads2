@@ -296,3 +296,460 @@ System memory in use after: 107.3 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3175.
 Total: 8.000000 ms (FindLiveObjects: 2.639300 ms CreateObjectMapping: 0.413000 ms MarkObjects: 4.120500 ms  DeleteObjects: 0.822500 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.635 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3178.
+Total: 6.200000 ms (FindLiveObjects: 0.418300 ms CreateObjectMapping: 0.307900 ms MarkObjects: 4.715000 ms  DeleteObjects: 0.755400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.785 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3181.
+Total: 6.090900 ms (FindLiveObjects: 0.333100 ms CreateObjectMapping: 0.273700 ms MarkObjects: 4.865000 ms  DeleteObjects: 0.614700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.317 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 3.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3184.
+Total: 11.228400 ms (FindLiveObjects: 0.402300 ms CreateObjectMapping: 0.355800 ms MarkObjects: 9.396200 ms  DeleteObjects: 1.069100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.993 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3187.
+Total: 4.174300 ms (FindLiveObjects: 0.342700 ms CreateObjectMapping: 0.284600 ms MarkObjects: 3.086700 ms  DeleteObjects: 0.457300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9241.689780 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffcfd9aba6a9f74fcd1bb6df0e6e5b20') in 0.068559 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.788 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3190.
+Total: 3.902900 ms (FindLiveObjects: 0.334000 ms CreateObjectMapping: 0.218700 ms MarkObjects: 2.871700 ms  DeleteObjects: 0.475600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.722286 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90bdfcb9f069f3edd51842e3f3f4bf39') in 0.025664 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.270 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 9.525300 ms (FindLiveObjects: 0.337300 ms CreateObjectMapping: 0.245000 ms MarkObjects: 7.552100 ms  DeleteObjects: 1.385000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.015756 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103cd6be8f4203801f68f05d46f3df5e') in 0.217362 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.863 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3196.
+Total: 5.402700 ms (FindLiveObjects: 0.427900 ms CreateObjectMapping: 0.360100 ms MarkObjects: 3.447000 ms  DeleteObjects: 1.161300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.704 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3199.
+Total: 8.199000 ms (FindLiveObjects: 0.423900 ms CreateObjectMapping: 0.276500 ms MarkObjects: 7.065400 ms  DeleteObjects: 0.429300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 617.407179 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04956c49e6d42e45123f0b1f65753df8') in 2.420302 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015241 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.423 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3202.
+Total: 5.725200 ms (FindLiveObjects: 0.425500 ms CreateObjectMapping: 0.353500 ms MarkObjects: 4.309100 ms  DeleteObjects: 0.632000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.147200 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e95e6a2b433aa6fe38d3e7a1b8d715') in 0.828459 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.443 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3205.
+Total: 9.602100 ms (FindLiveObjects: 0.325000 ms CreateObjectMapping: 0.213800 ms MarkObjects: 8.375100 ms  DeleteObjects: 0.685700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 690.262349 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1fff2210105abbaee7e0128abc76f5') in 0.166165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.575137 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7aea07a2ee73915cd84e335a180329d') in 0.026071 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.651 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 53.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3208.
+Total: 5.666500 ms (FindLiveObjects: 0.429200 ms CreateObjectMapping: 0.405500 ms MarkObjects: 3.134000 ms  DeleteObjects: 1.694400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.632154 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d232a96e85a88c7500aacd8a160210') in 0.472906 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.075104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.856 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 2.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3211.
+Total: 4.408900 ms (FindLiveObjects: 0.332200 ms CreateObjectMapping: 0.245600 ms MarkObjects: 3.256700 ms  DeleteObjects: 0.570400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.418809 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03663c6ef7689646b50d223f35cb882') in 0.315566 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.092 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3214.
+Total: 54.229200 ms (FindLiveObjects: 0.373600 ms CreateObjectMapping: 0.550500 ms MarkObjects: 52.812100 ms  DeleteObjects: 0.490500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.968 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3217.
+Total: 3.962700 ms (FindLiveObjects: 0.307400 ms CreateObjectMapping: 0.192500 ms MarkObjects: 3.025600 ms  DeleteObjects: 0.434500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 934.242939 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae86433499784bc8138ae6e46d8887c5') in 0.823261 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005468 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.196 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 155.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3220.
+Total: 5.304300 ms (FindLiveObjects: 0.395600 ms CreateObjectMapping: 0.296500 ms MarkObjects: 3.951900 ms  DeleteObjects: 0.656300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.485845 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6104cbf9051c413b88e511ede9cbb457') in 0.687886 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 8.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.994 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3223.
+Total: 16.123300 ms (FindLiveObjects: 0.344100 ms CreateObjectMapping: 0.257700 ms MarkObjects: 15.002900 ms  DeleteObjects: 0.515600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.283192 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12d7ff3252e45574c8df38a7cd05522') in 0.558028 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 5.959309 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 28.419 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 5.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3226.
+Total: 114.057000 ms (FindLiveObjects: 1.624900 ms CreateObjectMapping: 14.442500 ms MarkObjects: 19.931200 ms  DeleteObjects: 78.055000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010966 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 57.307 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 107.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3229.
+Total: 224.918900 ms (FindLiveObjects: 0.740300 ms CreateObjectMapping: 0.696000 ms MarkObjects: 222.547900 ms  DeleteObjects: 0.927700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 530.678176 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.147356 seconds  code(4) message(Build asset version error: assets/scripts/spaceship.cs in SourceAssetDB has modification time of '2023-11-09T17:47:34.4122014Z' while content on disk has modification time of '2023-11-09T17:49:43.0705558Z')
+  ERROR: Build asset version error: assets/scripts/spaceship.cs in SourceAssetDB has modification time of '2023-11-09T17:47:34.4122014Z' while content on disk has modification time of '2023-11-09T17:49:43.0705558Z'
