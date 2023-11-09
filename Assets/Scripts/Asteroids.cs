@@ -13,6 +13,6 @@ public class Asteroids : MonoBehaviour
     private void AsteroidsSpace()
     {
         Instantiate(asteroid);
-        asteroid.transform.position = new Vector3(Random.Range(-12, 2), 1, 200);
+        asteroid.transform.position = new Vector3(Random.Range(-12, 2), 1, 250);
     }
 }

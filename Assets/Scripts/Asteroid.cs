@@ -10,5 +10,6 @@ public class Asteroid : MonoBehaviour
     {
         _asteroidSpeed -= 0.15f;
         transform.Translate(0, 0, _asteroidSpeed);
+        // transform.Rotate(0.0f, 1f, 0.0f);
     }
 }
