@@ -327,6 +327,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/EasyMainMenu/Scripts/Editor/EMM_AddCanvases.cs"
+"Assets/EasyMainMenu/Scripts/Main Menu Scripts/Editor/MainMenuControllerEditor.cs"
 "Assets/PyroParticles/Prefab/Editor/PyroParticlesEditor.cs"
 -langversion:8.0
 
