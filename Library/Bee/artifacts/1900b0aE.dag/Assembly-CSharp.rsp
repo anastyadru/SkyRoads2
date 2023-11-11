@@ -333,6 +333,7 @@
 "Assets/Scripts/Asteroid.cs"
 "Assets/Scripts/Asteroids.cs"
 "Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/ScrollTexture.cs"
 "Assets/Scripts/Spaceship.cs"
 -langversion:8.0
