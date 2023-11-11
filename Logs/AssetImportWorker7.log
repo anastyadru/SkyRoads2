@@ -164,3 +164,234 @@ System memory in use after: 102.2 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3161.
 Total: 22.062100 ms (FindLiveObjects: 16.697400 ms CreateObjectMapping: 0.444700 ms MarkObjects: 3.796900 ms  DeleteObjects: 1.117400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3220.684295 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c642a9d469ad6f223e4d789084b785') in 0.073783 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.672 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 102.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3164.
+Total: 17.773300 ms (FindLiveObjects: 0.441000 ms CreateObjectMapping: 0.380900 ms MarkObjects: 16.016100 ms  DeleteObjects: 0.932200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 331.372787 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion9.ogg
+  artifactKey: Guid(00567c9401ce5364fa0b2830749f785a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion9.ogg using Guid(00567c9401ce5364fa0b2830749f785a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd7972950efb289ebf8cdc1e92dd132') in 0.515234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000818 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot1.ogg
+  artifactKey: Guid(da5aeec65dfce4d449024607b399a5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot1.ogg using Guid(da5aeec65dfce4d449024607b399a5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e842de4ac77284615c4513e23c5ecd1') in 0.099809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/PyroParticles/Prefab/Audio
+  artifactKey: Guid(a9f88b856d3e8eb48ae78d18b9edffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio using Guid(a9f88b856d3e8eb48ae78d18b9edffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cac19841ea1ac35893e9e0f26224762') in 0.011536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireLoop3.ogg
+  artifactKey: Guid(dd4cb05799dab124e9b5105f893be5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireLoop3.ogg using Guid(dd4cb05799dab124e9b5105f893be5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0828ad4392ee8ba1ce7cd8c6934b679b') in 0.132120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009448 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion5.ogg
+  artifactKey: Guid(0dcfe736485e63542b5036dc5b360032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion5.ogg using Guid(0dcfe736485e63542b5036dc5b360032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45910dbeed1b00d276a533363c4395ce') in 0.113253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot6.ogg
+  artifactKey: Guid(a2cb9f8f4930f7e48b48bf85834f464c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot6.ogg using Guid(a2cb9f8f4930f7e48b48bf85834f464c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d5fd4c1c47d6ba201f0582edf45f2a') in 0.137404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion1.ogg
+  artifactKey: Guid(31dbe1f047a081845bd95a5b256ee829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion1.ogg using Guid(31dbe1f047a081845bd95a5b256ee829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b5c257a39e3ae72940ecc3042306a9') in 0.063727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029966 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot2.ogg
+  artifactKey: Guid(ca679721d8a1b6243acc9a7ce566789b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot2.ogg using Guid(ca679721d8a1b6243acc9a7ce566789b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7d5294ea29fb3442f4ce43df48a9a7') in 0.060243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/LargeFire2.ogg
+  artifactKey: Guid(7143268172057c144bb596799d50ab38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/LargeFire2.ogg using Guid(7143268172057c144bb596799d50ab38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caffe2301b201f7fb45bfbca889f11d2') in 0.147298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot7.ogg
+  artifactKey: Guid(074ccb664b11e1341a5ac9b972ea3ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot7.ogg using Guid(074ccb664b11e1341a5ac9b972ea3ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096d85e4beb2c7d99d9e9958b225d95e') in 0.485052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011246 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion7.ogg
+  artifactKey: Guid(1b1e870555539084e867c27366722812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion7.ogg using Guid(1b1e870555539084e867c27366722812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba00016e76684ac9b56fb5a125fe2b3') in 0.164133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireLoop2.ogg
+  artifactKey: Guid(5aadc4dc07dd8c0448550fc57a19a72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireLoop2.ogg using Guid(5aadc4dc07dd8c0448550fc57a19a72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b1d1876a2399517e249ef7b7851661') in 0.035507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013115 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot8.ogg
+  artifactKey: Guid(9e8ce623bafed8e43bedc188b3fc046f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot8.ogg using Guid(9e8ce623bafed8e43bedc188b3fc046f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae0ccc84eddc39981913222479b78ea') in 0.140066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot3.ogg
+  artifactKey: Guid(04f423841d9fff345a394fdb44f4bac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot3.ogg using Guid(04f423841d9fff345a394fdb44f4bac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1768e207588097df229512fdf491f45b') in 0.076976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001342 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/CampFire.ogg
+  artifactKey: Guid(d0d0b7f865e3a50448df4610cf2681dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/CampFire.ogg using Guid(d0d0b7f865e3a50448df4610cf2681dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124effeaf02c187d06686873d0faca11') in 0.019813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/LargeFire1.ogg
+  artifactKey: Guid(b421470cd558efa48b54c60debd59321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/LargeFire1.ogg using Guid(b421470cd558efa48b54c60debd59321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059890f57a2357df80bd5de538c2afb0') in 0.027379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000924 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion6.ogg
+  artifactKey: Guid(15b61cecc9c413944b23744fbd523914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion6.ogg using Guid(15b61cecc9c413944b23744fbd523914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6964f70bb324f8c6b654926b60da0334') in 0.069652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot5.ogg
+  artifactKey: Guid(0b02c09b276fdeb40a0378331b9baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot5.ogg using Guid(0b02c09b276fdeb40a0378331b9baef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3030145022f2b0db75aa3a418f81257') in 0.100970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008684 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion4.ogg
+  artifactKey: Guid(222141dd968fb6447b5c790b6d87a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion4.ogg using Guid(222141dd968fb6447b5c790b6d87a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabd34162209ea5756e12e3450a45350') in 0.148605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireLoop1.ogg
+  artifactKey: Guid(8a2043d14545b4b45b5cbc0c8cbb8874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireLoop1.ogg using Guid(8a2043d14545b4b45b5cbc0c8cbb8874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d0b8ca9479d0164182a921190a6b91') in 0.090313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001559 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion2.ogg
+  artifactKey: Guid(b57a5b81c8663e14bbf70a3cc6ff01ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion2.ogg using Guid(b57a5b81c8663e14bbf70a3cc6ff01ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f795a9d27c0e57cf5c54c16c0164e0f5') in 0.045055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion8.ogg
+  artifactKey: Guid(3bbe242bc37c8614fbe02c843ed5b465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion8.ogg using Guid(3bbe242bc37c8614fbe02c843ed5b465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8f0bab7f01c57278c3b7b4d610134f') in 0.134517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireExplosion3.ogg
+  artifactKey: Guid(83a3d45944f24b647a973099cc6fb1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireExplosion3.ogg using Guid(83a3d45944f24b647a973099cc6fb1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7414601a849872574ca7cdb640aeb8b9') in 0.070557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.097847 seconds.
+  path: Assets/PyroParticles/Prefab/Audio/FireShoot4.ogg
+  artifactKey: Guid(4e44e54a7843332488751c1d44253487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PyroParticles/Prefab/Audio/FireShoot4.ogg using Guid(4e44e54a7843332488751c1d44253487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f81200e660a9da0f8c646563fd6005') in 0.102770 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.117164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 15.371 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.5 MB.
+System memory in use after: 106.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3176.
+Total: 3.796200 ms (FindLiveObjects: 0.460300 ms CreateObjectMapping: 0.286400 ms MarkObjects: 2.651300 ms  DeleteObjects: 0.395600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50013.448552 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5360d3bd07c5d0dff62a3cd03d2e8dcc') in 0.073786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1612.421925 seconds.
+  path: Assets/Prefabs/Asteroid.prefab
+  artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4abe5b67fee825117a71de104d5ff575') in 0.279314 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.746 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.6 MB.
+System memory in use after: 106.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3180.
+Total: 19.519300 ms (FindLiveObjects: 0.432200 ms CreateObjectMapping: 0.335200 ms MarkObjects: 18.265000 ms  DeleteObjects: 0.484200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.671012 seconds.
+  path: Assets/Prefabs/Asteroid.prefab
+  artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d8817d83ac9daeb2aa58494aef109e') in 7.965444 seconds 
