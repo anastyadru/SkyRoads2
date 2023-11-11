@@ -4,9 +4,16 @@ using UnityEngine;
 
 public class Asteroid : MonoBehaviour
 {
-    private float _asteroidSpeed;
+    public float _asteroidSpeed;
+    public float rotation;
 
-    private void Update()
+    public void Start()
+    {
+        var asteroid = GetComponent<Rigidbody>();
+        asteroid.angularVelocity = Random.insideUnitSphere * rotation;
+    }
+
+    public void Update()
     {
         _asteroidSpeed -= 0.15f;
         transform.Translate(0, 0, _asteroidSpeed);

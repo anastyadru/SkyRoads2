@@ -395,3 +395,72 @@ Received Import Request.
   path: Assets/Prefabs/Asteroid.prefab
   artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d8817d83ac9daeb2aa58494aef109e') in 7.965444 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.165734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 29.857 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.6 MB.
+System memory in use after: 106.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3184.
+Total: 16.471200 ms (FindLiveObjects: 0.693400 ms CreateObjectMapping: 0.384300 ms MarkObjects: 14.844600 ms  DeleteObjects: 0.544800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6628.860228 seconds.
+  path: Assets/Prefabs/Asteroid.prefab
+  artifactKey: Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroid.prefab using Guid(9bd8af89a5a97104a8fdf1b09594b9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281d200b8fa226f18859cba90b10b4ff') in 0.815475 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.028722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.721 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.6 MB.
+System memory in use after: 106.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3188.
+Total: 19.362100 ms (FindLiveObjects: 0.423200 ms CreateObjectMapping: 0.377200 ms MarkObjects: 17.093300 ms  DeleteObjects: 1.462600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007858 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 139.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.821 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 3.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.6 MB.
+System memory in use after: 106.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3191.
+Total: 65.324600 ms (FindLiveObjects: 0.436400 ms CreateObjectMapping: 0.439000 ms MarkObjects: 63.988800 ms  DeleteObjects: 0.456500 ms)
+
