@@ -19,13 +19,19 @@ public class Spaceship : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
-            transform.position += new Vector3(0.8f, 0, 0);
-            rotationX = Mathf.Lerp(rotationX, -50f, Time.deltaTime * rotationSpeed);
+            if (transform.position.x < 1) // Проверила, чтобы корабль не съехал за правый край дороги
+            {
+                transform.position += new Vector3(0.8f, 0, 0);
+                rotationX = Mathf.Lerp(rotationX, -50f, Time.deltaTime * rotationSpeed);
+            }
         }
         else if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
-            transform.position += new Vector3(-0.8f, 0, 0);
-            rotationX = Mathf.Lerp(rotationX, 50f, Time.deltaTime * rotationSpeed);
+            if (transform.position.x > -14) // Проверила, чтобы корабль не съехал за левый край дороги
+            {
+                transform.position += new Vector3(-0.8f, 0, 0);
+                rotationX = Mathf.Lerp(rotationX, 50f, Time.deltaTime * rotationSpeed);
+            }
         }
         else
         {
