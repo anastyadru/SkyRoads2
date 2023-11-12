@@ -337,6 +337,7 @@
 "Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/ScrollTexture.cs"
 "Assets/Scripts/Spaceship.cs"
+"Assets/Scripts/Timer.cs"
 -langversion:8.0
 
 /deterministic
