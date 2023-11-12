@@ -372,3 +372,75 @@ Received Import Request.
   path: Assets/Game.unity
   artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8080c361bd293c2e0557ef0d360df58a') in 0.040268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9158.069792 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f8ef5bf7e1e857faa532c07330d1c7') in 0.017656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1381.931675 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e42cf2f46a579c647bc957a83bb6c4') in 0.008457 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007836 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.480 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 11.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 95.604800 ms (FindLiveObjects: 1.062200 ms CreateObjectMapping: 90.503400 ms MarkObjects: 3.486400 ms  DeleteObjects: 0.549400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.720052 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b9f3a18a0ef6176b711efcc61048fc') in 0.081984 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.822 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 3.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3196.
+Total: 4.415600 ms (FindLiveObjects: 0.321200 ms CreateObjectMapping: 0.215900 ms MarkObjects: 3.446900 ms  DeleteObjects: 0.428100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 276.134666 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bad9021245d2ec752677ea2ea89067f') in 0.097684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.256104 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85cdaadf14dcd3fecf9e12ad17abf40') in 0.008695 seconds 
