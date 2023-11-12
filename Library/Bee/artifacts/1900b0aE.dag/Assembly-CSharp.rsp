@@ -332,6 +332,7 @@
 "Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs"
 "Assets/Scripts/Asteroid.cs"
 "Assets/Scripts/Asteroids.cs"
+"Assets/Scripts/ButtonNext.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/ScrollTexture.cs"
