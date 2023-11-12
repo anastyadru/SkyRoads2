@@ -752,3 +752,198 @@ System memory in use after: 106.4 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3263.
 Total: 48.126800 ms (FindLiveObjects: 0.523600 ms CreateObjectMapping: 2.039500 ms MarkObjects: 45.093000 ms  DeleteObjects: 0.467500 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 33.362 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 2.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3266.
+Total: 4.113200 ms (FindLiveObjects: 0.373700 ms CreateObjectMapping: 0.282600 ms MarkObjects: 2.983900 ms  DeleteObjects: 0.457500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007232 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.751 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3269.
+Total: 3.695800 ms (FindLiveObjects: 0.318900 ms CreateObjectMapping: 0.211700 ms MarkObjects: 2.738800 ms  DeleteObjects: 0.423300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4625.748298 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580b8a6dbe9c7aad2b232529412e5214') in 0.092120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 214.359964 seconds.
+  path: Assets/Interactive.unity
+  artifactKey: Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interactive.unity using Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31206cdd260ca1398f56d1bf33d66359') in 0.017025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.208084 seconds.
+  path: Assets/Interactive.unity
+  artifactKey: Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interactive.unity using Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49d7620fa08e442c143bf5d21ab2d897') in 0.013073 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019875 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.920 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3273.
+Total: 207.733600 ms (FindLiveObjects: 0.429700 ms CreateObjectMapping: 0.807400 ms MarkObjects: 193.676700 ms  DeleteObjects: 12.815500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 508.032586 seconds.
+  path: Assets/Scripts/ButtonNext.cs
+  artifactKey: Guid(d38b2b848b529ab429d9f4b866077dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonNext.cs using Guid(d38b2b848b529ab429d9f4b866077dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebe3219ea890c5de43acc1b868c9521') in 0.011751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.877104 seconds.
+  path: Assets/Scripts/ButtonNext.cs
+  artifactKey: Guid(d38b2b848b529ab429d9f4b866077dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonNext.cs using Guid(d38b2b848b529ab429d9f4b866077dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9863a8bbecfe6e2737240e3f2980329b') in 0.015899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 116.153306 seconds.
+  path: Assets/Interactive.unity
+  artifactKey: Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interactive.unity using Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd731d028a08701237e339890fecec44') in 0.062471 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.106 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3276.
+Total: 41.279600 ms (FindLiveObjects: 0.443600 ms CreateObjectMapping: 0.324100 ms MarkObjects: 40.013300 ms  DeleteObjects: 0.494900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.212225 seconds.
+  path: Assets/Interactive.unity
+  artifactKey: Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interactive.unity using Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a30b51d02cd50202be9d0bef2a5aa3') in 0.855383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.812786 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa203adddec5904d158f7e2668f8241') in 1.166386 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.139723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.040 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3279.
+Total: 4.751500 ms (FindLiveObjects: 0.356400 ms CreateObjectMapping: 0.253400 ms MarkObjects: 3.513700 ms  DeleteObjects: 0.624400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.449 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3282.
+Total: 9.420600 ms (FindLiveObjects: 0.407900 ms CreateObjectMapping: 0.228300 ms MarkObjects: 8.171600 ms  DeleteObjects: 0.609000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.047 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3285.
+Total: 15.053900 ms (FindLiveObjects: 3.601000 ms CreateObjectMapping: 0.265700 ms MarkObjects: 10.731400 ms  DeleteObjects: 0.452900 ms)
+
