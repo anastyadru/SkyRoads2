@@ -827,3 +827,90 @@ System memory in use after: 132.1 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3617.
 Total: 4.421700 ms (FindLiveObjects: 0.383000 ms CreateObjectMapping: 0.247000 ms MarkObjects: 3.208900 ms  DeleteObjects: 0.579800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.585 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.6 MB.
+System memory in use after: 132.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3620.
+Total: 4.458700 ms (FindLiveObjects: 0.473100 ms CreateObjectMapping: 0.364100 ms MarkObjects: 3.147100 ms  DeleteObjects: 0.471800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.033124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 20.500 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.6 MB.
+System memory in use after: 132.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3623.
+Total: 4.819700 ms (FindLiveObjects: 0.393700 ms CreateObjectMapping: 0.303600 ms MarkObjects: 3.425100 ms  DeleteObjects: 0.694700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.601 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 35.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.6 MB.
+System memory in use after: 132.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3626.
+Total: 4.825600 ms (FindLiveObjects: 0.685000 ms CreateObjectMapping: 0.427200 ms MarkObjects: 3.265900 ms  DeleteObjects: 0.443900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2620.958390 seconds.
+  path: Assets/Fonts/_Scene
+  artifactKey: Guid(c3eff68d6f09f5946bdbf19f4f111c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/_Scene using Guid(c3eff68d6f09f5946bdbf19f4f111c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70ab74a1a859c10659857091923c749') in 0.017704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.301516 seconds.
+  path: Assets/Fonts/Documentation
+  artifactKey: Guid(c78a79616a4d3af42b4092fb8c90ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Documentation using Guid(c78a79616a4d3af42b4092fb8c90ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b01a75aa76c4236dac3f91bf02d59c') in 0.014998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.021643 seconds.
+  path: Assets/Fonts/Script
+  artifactKey: Guid(9ea026a6282c34b4d9366aa4e30de9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Script using Guid(9ea026a6282c34b4d9366aa4e30de9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6e1b2f9a450f9283f553a643224fb6') in 0.025044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.645329 seconds.
+  path: Assets/Fonts/UIsprite
+  artifactKey: Guid(649fd21005387924f928577cea7a3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/UIsprite using Guid(649fd21005387924f928577cea7a3fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fed731bc316d508470d878409ae5ca') in 0.005992 seconds 
