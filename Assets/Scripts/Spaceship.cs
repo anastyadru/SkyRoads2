@@ -53,7 +53,7 @@ public class Spaceship : MonoBehaviour
     
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.tag == "Asteroid")
+        if (collision.gameObject.tag == "Asteroids")
         {
             Debug.Log("Game Over");
             GameOver();
@@ -62,6 +62,6 @@ public class Spaceship : MonoBehaviour
 
     private void GameOver()
     {
-        SceneManager.LoadScene("GameOverScene");
+        
     }
 }

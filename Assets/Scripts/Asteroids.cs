@@ -18,7 +18,7 @@ public class Asteroids : MonoBehaviour
         if (sessionTime - lastDifficultyIncreaseTime > timeBetweenDifficultyIncrease)
         {
             lastDifficultyIncreaseTime = sessionTime;
-            initialSpawnInterval *= 0.9f; // Уменьшение изначального интервала на 10%
+            initialSpawnInterval *= 0.8f; // Уменьшение изначального интервала на 20%
             if (initialSpawnInterval < minSpawnInterval)
             {
                 initialSpawnInterval = minSpawnInterval; // Установка минимального интервала, если новый интервал меньше
