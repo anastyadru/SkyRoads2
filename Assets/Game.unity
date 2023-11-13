@@ -777,6 +777,7 @@ GameObject:
   - component: {fileID: 436354614}
   - component: {fileID: 436354613}
   - component: {fileID: 436354616}
+  - component: {fileID: 436354617}
   m_Layer: 0
   m_Name: Spaceship
   m_TagString: Untagged
@@ -859,6 +860,22 @@ MonoBehaviour:
   rotationSpeed: 5
   normalSpeed: 0.8
   boostedSpeed: 1.6
+--- !u!54 &436354617
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 436354612}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &535584872
 GameObject:
   m_ObjectHideFlags: 0
@@ -1735,6 +1752,7 @@ GameObject:
   m_Component:
   - component: {fileID: 785880604}
   - component: {fileID: 785880603}
+  - component: {fileID: 785880605}
   m_Layer: 0
   m_Name: Asteroids
   m_TagString: Untagged
@@ -1769,6 +1787,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &785880605
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 785880602}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &795556905
 GameObject:
   m_ObjectHideFlags: 0

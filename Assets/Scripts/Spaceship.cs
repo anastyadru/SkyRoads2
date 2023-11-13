@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Spaceship : MonoBehaviour
 {
@@ -48,5 +49,19 @@ public class Spaceship : MonoBehaviour
         {
             currentSpeed = normalSpeed;
         }
+    }
+    
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Asteroid")
+        {
+            Debug.Log("Game Over");
+            GameOver();
+        }
+    }
+
+    private void GameOver()
+    {
+        SceneManager.LoadScene("GameOverScene");
     }
 }
