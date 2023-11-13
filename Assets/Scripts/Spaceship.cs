@@ -51,9 +51,9 @@ public class Spaceship : MonoBehaviour
         }
     }
     
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision collision)
     {
-        if (other.tag == "Asteroid")
+        if (collision.gameObject.tag == "Asteroid")
         {
             Debug.Log("Game Over");
             GameOver();

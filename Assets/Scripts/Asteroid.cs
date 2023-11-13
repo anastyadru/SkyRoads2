@@ -5,18 +5,11 @@ using UnityEngine;
 public class Asteroid : MonoBehaviour
 {
     public float _asteroidSpeed;
-    // public float rotation;
-
-    // public void Start()
-    // {
-        // var asteroid = GetComponent<Rigidbody>();
-        // asteroid.angularVelocity = transform.up * rotation;
-    // }
-
+    // public float rotationSpeed = 50f;
     public void Update()
     {
+        // transform.Rotate(transform.up, rotationSpeed * Time.deltaTime);
         _asteroidSpeed -= 0.15f;
         transform.Translate(0, 0, _asteroidSpeed);
-        // transform.Rotate(0.0f, 1f, 0.0f);
     }
 }
