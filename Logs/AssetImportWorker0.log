@@ -1109,3 +1109,48 @@ System memory in use after: 132.2 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3645.
 Total: 4.478500 ms (FindLiveObjects: 0.669700 ms CreateObjectMapping: 0.308500 ms MarkObjects: 3.066500 ms  DeleteObjects: 0.426200 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 4575.705886 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee426045419936839febf4eb75bb8d8') in 0.055295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 335.745930 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2ad690f194782c06347ae3202ff4a1') in 0.012683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 259.583091 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f30e457d3452e3cec84f4f2c07105f') in 0.037595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.076479 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc937c4477bf5589fff42c81983f98a') in 0.034302 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.032549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.927 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 2.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2686 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 132.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3648.
+Total: 5.194400 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.333900 ms MarkObjects: 4.022800 ms  DeleteObjects: 0.452600 ms)
+
