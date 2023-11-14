@@ -5,25 +5,25 @@ using UnityEngine;
 public class Spaceship : MonoBehaviour
 {
     public float rotationSpeed = 5f;
-    // public float moveSpeed = 3f;
-    // public float boostedSpeed = 3.0f;
-    public float moveSpeed;
-    public float rotationX = 0f;
+    public float normalSpeed = 3f;
+    public float boostedSpeed = 10f;
+    private float moveSpeed;
+    private float rotationX = 0f;
 
-    private void Start()
+    public void Start()
     {
-        moveSpeed = 3f;
+        moveSpeed = normalSpeed;
     }
 
-    private void Update()
+    public void Update()
     {
         if (Input.GetKey(KeyCode.S))
         {
-            moveSpeed = 10f;
+            moveSpeed = boostedSpeed;
         }
         else
         {
-            moveSpeed = 3f;
+            moveSpeed = normalSpeed;
         }
         
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
