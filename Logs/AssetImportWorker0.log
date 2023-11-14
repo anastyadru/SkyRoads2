@@ -1154,3 +1154,150 @@ System memory in use after: 132.3 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3648.
 Total: 5.194400 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.333900 ms MarkObjects: 4.022800 ms  DeleteObjects: 0.452600 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1364.018885 seconds.
+  path: Assets/Scripts/SoundMainMenu.cs
+  artifactKey: Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SoundMainMenu.cs using Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52b0e6c1c0eeb148484470992d0a458') in 0.036785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.299672 seconds.
+  path: Assets/Scripts/AudioController.cs
+  artifactKey: Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AudioController.cs using Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faee850c61e015f7b4d55745efba952d') in 0.019351 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.130 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2686 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 132.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3651.
+Total: 6.152400 ms (FindLiveObjects: 0.930700 ms CreateObjectMapping: 0.444900 ms MarkObjects: 4.041300 ms  DeleteObjects: 0.733200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.220 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2687 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 132.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3655.
+Total: 17.508600 ms (FindLiveObjects: 4.348300 ms CreateObjectMapping: 2.063300 ms MarkObjects: 9.493300 ms  DeleteObjects: 1.600000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.722460 seconds.
+  path: Assets/Scripts/AudioController.cs
+  artifactKey: Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AudioController.cs using Guid(11fb79f7029d2d74ab4d5bd4e115bf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b33033f38b14e92ea8455ec455fe07') in 0.097610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.704352 seconds.
+  path: Assets/scrip.cs
+  artifactKey: Guid(2e77ae0ac72272348a0f0559158904a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scrip.cs using Guid(2e77ae0ac72272348a0f0559158904a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084e4828c7a893e83b5e8a2aed15591e') in 0.023542 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.488 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2686 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 132.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3657.
+Total: 4.707000 ms (FindLiveObjects: 0.491700 ms CreateObjectMapping: 0.361200 ms MarkObjects: 3.380800 ms  DeleteObjects: 0.469700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.302342 seconds.
+  path: Assets/Scripts/SliderController.cs
+  artifactKey: Guid(19c41073305304b438421e81b3fdc6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SliderController.cs using Guid(19c41073305304b438421e81b3fdc6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e553fd55e8ba9aa5e4a57e4345fa3a4b') in 0.047141 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.417 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2687 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 132.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3661.
+Total: 6.048500 ms (FindLiveObjects: 0.506300 ms CreateObjectMapping: 0.717800 ms MarkObjects: 4.370300 ms  DeleteObjects: 0.449400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.755 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2687 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 132.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3664.
+Total: 17.499100 ms (FindLiveObjects: 12.858800 ms CreateObjectMapping: 0.500900 ms MarkObjects: 3.672300 ms  DeleteObjects: 0.463400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 174.634013 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c159edac51108edea47471b4b5d766a5') in 0.037832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.126786 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f4319a05a40dcb30acef4b3aa4c414') in 0.024002 seconds 
