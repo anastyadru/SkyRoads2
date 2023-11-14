@@ -5,18 +5,27 @@ using UnityEngine;
 public class Spaceship : MonoBehaviour
 {
     public float rotationSpeed = 5f;
-    public float normalSpeed = 1.5f;
-    public float boostedSpeed = 3.0f;
-    private float currentSpeed;
-    private float rotationX = 0f;
+    // public float moveSpeed = 3f;
+    // public float boostedSpeed = 3.0f;
+    public float moveSpeed;
+    public float rotationX = 0f;
 
     private void Start()
     {
-        currentSpeed = normalSpeed;
+        moveSpeed = 3f;
     }
 
     private void Update()
     {
+        if (Input.GetKey(KeyCode.S))
+        {
+            moveSpeed = 10f;
+        }
+        else
+        {
+            moveSpeed = 3f;
+        }
+        
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
             if (transform.position.x < 1) // Проверила, чтобы корабль не съехал за правый край дороги
@@ -39,28 +48,19 @@ public class Spaceship : MonoBehaviour
         }
 
         transform.rotation = Quaternion.Euler(0, 0, rotationX);
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            currentSpeed = boostedSpeed;
-        }
-        else
-        {
-            currentSpeed = normalSpeed;
-        }
     }
     
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Asteroids")
-        {
-            Debug.Log("Game Over");
-            GameOver();
-        }
-    }
+    // private void OnCollisionEnter(Collision collision)
+    // {
+    //    if (collision.gameObject.tag == "Asteroids")
+    //    {
+    //        Debug.Log("Game Over");
+    //        GameOver();
+    //    }
+    // }
 
-    private void GameOver()
-    {
+    //private void GameOver()
+    //{
         
-    }
+    //}
 }
