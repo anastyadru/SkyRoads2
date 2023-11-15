@@ -10,23 +10,18 @@ public class Spaceship : MonoBehaviour
     private float moveSpeed;
     private float rotationX = 0f;
 
-    public void Start()
-    {
-        moveSpeed = normalSpeed;
-    }
-
     public void Update()
     {
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.Space))
         {
-            moveSpeed = boostedSpeed;
+            moveSpeed = 10f;
         }
         else
         {
-            moveSpeed = normalSpeed;
+            moveSpeed = 3f;
         }
         
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             if (transform.position.x < 1) // Проверила, чтобы корабль не съехал за правый край дороги
             {
@@ -34,7 +29,7 @@ public class Spaceship : MonoBehaviour
                 rotationX = Mathf.Lerp(rotationX, -50f, Time.deltaTime * rotationSpeed);
             }
         }
-        else if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
+        else if (Input.GetKey(KeyCode.A))
         {
             if (transform.position.x > -14) // Проверила, чтобы корабль не съехал за левый край дороги
             {
