@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class ButtonNext : MonoBehaviour
 {
-    
     public bool NextGame;
     private GameObject nextGameMenu;
     
