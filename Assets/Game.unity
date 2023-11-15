@@ -2115,7 +2115,7 @@ GameObject:
   - component: {fileID: 752333106}
   - component: {fileID: 752333105}
   m_Layer: 5
-  m_Name: ButtonPoints
+  m_Name: ButtonScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6284,7 +6284,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Points
+  m_Text: Score
 --- !u!222 &2107101934
 CanvasRenderer:
   m_ObjectHideFlags: 0

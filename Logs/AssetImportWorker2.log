@@ -69,3 +69,54 @@ System memory in use after: 102.8 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3153.
 Total: 4.774100 ms (FindLiveObjects: 0.322100 ms CreateObjectMapping: 0.252500 ms MarkObjects: 3.761200 ms  DeleteObjects: 0.435100 ms)
 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/ScoreCollector.cs
+  artifactKey: Guid(8b2eb00fec45640428ed48ce03b42832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScoreCollector.cs using Guid(8b2eb00fec45640428ed48ce03b42832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e1f2323a41501117432c393d783318') in 0.282866 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.112 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.8 MB.
+System memory in use after: 102.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3157.
+Total: 5.662200 ms (FindLiveObjects: 0.399600 ms CreateObjectMapping: 0.259300 ms MarkObjects: 4.068600 ms  DeleteObjects: 0.931200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4232.957970 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8971352c0411ea34be5c63f2d49d8215') in 0.080307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1372.294424 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002011 seconds  code(4) message(Build asset version error: assets/scripts/spaceship.cs in SourceAssetDB has modification time of '2023-11-15T13:03:44.8119113Z' while content on disk has modification time of '2023-11-15T13:05:35.3597365Z')
+  ERROR: Build asset version error: assets/scripts/spaceship.cs in SourceAssetDB has modification time of '2023-11-15T13:03:44.8119113Z' while content on disk has modification time of '2023-11-15T13:05:35.3597365Z'
+========================================================================
+Received Import Request.
+  Time since last request: 7.116998 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e88c7f6ceb2407ebaf2be67e0ba76a') in 0.034826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.267962 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4665696c47db6430835675334d3444af') in 0.017199 seconds 
