@@ -12,13 +12,13 @@ public class Spaceship : MonoBehaviour
 
     public void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            moveSpeed = 10f;
+            moveSpeed = boostedSpeed;
         }
-        else
+        else if (Input.GetKeyUp(KeyCode.Space))
         {
-            moveSpeed = 3f;
+            moveSpeed = normalSpeed;
         }
         
         if (Input.GetKey(KeyCode.D))
