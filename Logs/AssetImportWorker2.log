@@ -337,3 +337,21 @@ System memory in use after: 102.4 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3181.
 Total: 11.648900 ms (FindLiveObjects: 0.324800 ms CreateObjectMapping: 0.517700 ms MarkObjects: 9.454300 ms  DeleteObjects: 1.348900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 7772.385371 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdefc5a9049b19ac86fc2ce61d5b427a') in 0.044380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.892004 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca189ef034bc4fdfabe3038cd3dcb5c') in 0.027992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 568.379349 seconds.
+  path: Assets/Scripts/Spaceship.cs
+  artifactKey: Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spaceship.cs using Guid(f8f1bbecfd5ccbd43987337089ef4f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8ae43e4e7e456b9bfc7fbe983cb6c0') in 0.052123 seconds 

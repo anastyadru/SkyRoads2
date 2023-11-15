@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class ScoreManager : MonoBehaviour
 {
-    [SerializeField] Text HighScoreText;
-    [SerializeField] Text ScoreText;
+    [SerializeField] private Text HighScoreText;
+    [SerializeField] private Text ScoreText;
 
     public static float score;
     int highscore;
@@ -20,8 +20,10 @@ public class ScoreManager : MonoBehaviour
     {
         highscore = (int)score;
         ScoreText.text = "SCORE: " + highscore.ToString();
-        if (PlayerPrefs.GetInt("score") <= highscore) ;
+        if (PlayerPrefs.GetInt("score") <= highscore)
+        {
             PlayerPrefs.SetInt("score", highscore);
+        }
             
         HighScoreText.text = "HIGHSCORE: " + PlayerPrefs.GetInt("score").ToString();
     }
