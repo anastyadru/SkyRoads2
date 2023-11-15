@@ -8,9 +8,9 @@ public class ScoreManager : MonoBehaviour
     [SerializeField] private Text HighScoreText;
     [SerializeField] private Text ScoreText;
 
-    public static float score;
-    int highscore;
-    
+    public float score;
+    public int highscore;
+
     void Start()
     {
         score = 0;

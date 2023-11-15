@@ -10,20 +10,12 @@ public class Spaceship : MonoBehaviour
     public float boostedSpeed = 10f;
     private float moveSpeed;
     private float rotationX = 0f;
-    public ScoreManager scoreManager;
-    public Text scoreText;
-    
-    private void Start()
-    {
-        scoreManager = FindObjectOfType<ScoreManager>();
-    }
 
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             moveSpeed = boostedSpeed;
-            scoreManager.AddBoostSpeedPoints();
         }
         else if (Input.GetKeyUp(KeyCode.Space))
         {
@@ -53,33 +45,7 @@ public class Spaceship : MonoBehaviour
 
         transform.rotation = Quaternion.Euler(0, 0, rotationX);
     }
-    
-    private void FixedUpdate()
-    {
-        float scoreIncrease = 0;
-        
-        if (moveSpeed == normalSpeed)
-        {
-            scoreIncrease = 1; // 1 очко в секунду за полёт на обычной скорости
-        }
-        else if (moveSpeed == boostedSpeed)
-        {
-            scoreIncrease = 2; // 2 очка в секунду за полёт в режиме ускорения
-        }
 
-        scoreManager.AddScore(scoreIncrease * Time.deltaTime); // Увеличиваем счет на основе времени и бонусных очков
-
-        scoreText.text = "Score: " + Mathf.Round(scoreManager.GetScore()).ToString();
-    }
-
-     private void OnTriggerEnter(Collider other)
-     {
-        if (other.tag == "Asteroid")
-        {
-            scoreManager.AddScore(5); // 5 очков за пройденный астероид
-        } 
-     }
-    
     // private void OnCollisionEnter(Collision collision)
     // {
     //    if (collision.gameObject.tag == "Asteroids")
@@ -88,9 +54,4 @@ public class Spaceship : MonoBehaviour
     //        GameOver();
     //    }
     // }
-
-    //private void GameOver()
-    //{
-        
-    //}
 }
