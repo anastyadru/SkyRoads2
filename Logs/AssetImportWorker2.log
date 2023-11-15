@@ -461,3 +461,42 @@ System memory in use after: 102.5 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3193.
 Total: 3.942100 ms (FindLiveObjects: 0.318300 ms CreateObjectMapping: 0.271300 ms MarkObjects: 2.855600 ms  DeleteObjects: 0.493700 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.308370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.981 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.0 MB.
+System memory in use after: 102.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3196.
+Total: 6.044800 ms (FindLiveObjects: 0.458700 ms CreateObjectMapping: 0.813200 ms MarkObjects: 4.254500 ms  DeleteObjects: 0.515400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3403.456967 seconds.
+  path: Assets/Menu.unity
+  artifactKey: Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu.unity using Guid(fbcbbe0b25f49944b86a184ba6bd9780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42bcae7dca2c586c60732b6529008606') in 0.055648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.674515 seconds.
+  path: Assets/Game.unity
+  artifactKey: Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game.unity using Guid(78551b0165b9e894c8c1e4b57acaeacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f612e45c8bccd165f0b2bc4844f4c62') in 0.025374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.399642 seconds.
+  path: Assets/Interactive.unity
+  artifactKey: Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interactive.unity using Guid(3721f448c6896014ea0f3acf86f2cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffe7fe1879be23cb470b10bdd9514b0') in 0.010651 seconds 
