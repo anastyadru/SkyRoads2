@@ -2359,6 +2359,9 @@ MonoBehaviour:
   ScoreText: {fileID: 1741641012}
   score: 0
   highscore: 0
+  normalSpeed: 1
+  boostedSpeed: 2
+  asteroidScore: 5
 --- !u!1 &688702781
 GameObject:
   m_ObjectHideFlags: 0
@@ -3972,7 +3975,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1059445223
 RectTransform:
   m_ObjectHideFlags: 0
