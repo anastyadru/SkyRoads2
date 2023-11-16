@@ -333,6 +333,7 @@
 "Assets/Scripts/Asteroid.cs"
 "Assets/Scripts/Asteroids.cs"
 "Assets/Scripts/AudioController.cs"
+"Assets/Scripts/AudioToggler.cs"
 "Assets/Scripts/btnFX.cs"
 "Assets/Scripts/ButtonNext.cs"
 "Assets/Scripts/MainMenu.cs"
