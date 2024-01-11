@@ -5,11 +5,18 @@ using UnityEngine;
 public class Asteroid : MonoBehaviour
 {
     public float _asteroidSpeed;
-    // public float rotationSpeed = 50f;
+    public float rotationSpeed = 30f;
+
+    private void Start()
+    {
+
+    }
+
     public void Update()
     {
-        // transform.Rotate(transform.up, rotationSpeed * Time.deltaTime);
         _asteroidSpeed -= 0.15f;
         transform.Translate(0, 0, _asteroidSpeed);
+
+        GetComponent<Rigidbody>().AddTorque(transform.forward * rotationSpeed);
     }
 }
